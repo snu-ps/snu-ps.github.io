@@ -24,9 +24,16 @@ nav {
     text-align: center;
 }
 nav ul {
+    font-size: 0;
     padding: 0;
 }
 nav ul li {
+    font-size: 18px;
     list-style: none;
     display: inline;
+    padding: 0 10px;
+    border-right: 1px solid #aaa;
+}
+nav ul li:last-child {
+    border-right: 0;
 }
