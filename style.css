@@ -23,6 +23,9 @@ header {
 nav {
     text-align: center;
 }
+nav ul {
+    padding: 0;
+}
 nav ul li {
     list-style: none;
     display: inline;
