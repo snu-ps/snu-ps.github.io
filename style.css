@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+a:link {
+    color: #07a;
+}
+a:visited {
+    color: #07a;
+}
+
+body {
+    margin: 40px auto;
+    max-width: 700px;
+    line-height: 1.6;
+    color: #444;
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+}
