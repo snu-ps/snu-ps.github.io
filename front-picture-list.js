@@ -41,6 +41,31 @@ var albums = [
         ]
     },
     {
+        'title': 'SNUPC 2017',
+        'pictures': [
+            'https://lh3.googleusercontent.com/jFYGaZkHRImRsEhzOczsxGbQh-dOthLPh1Ne7_41bXQRpLfh7Gne_VlurDvbOBcp-4YI_AubOB9zLorL=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/YFsmEoADETkwM5_ldN7V056sRC5lCamC_NG4Xk0SIKegR847TjCfHY_sVXmoFI0t1FRLQQqmhflQkLkk=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/lt68dBxRz5r_TYSxUegBOLIBjFtLQfsGXbetzc6X7dCA5F5m7jt-4BHztK-bQ9TqDsqd9-ngFK2FDUf2=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/X7UQIL32WR5SZhAbc2uDeyf6J45XWDUODC9FlI22Uygcr9Y1kdyLAa0R51O4jto6-T6hKig05j0JGrZY=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/f0i30m_5ktSrJ2HjWJgDuBDtdREjdQgXXIndaSRAEve5k1uN7--qsiE2A-FMZ01mWVbKnwXs1ls4SHha=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/40VVMp06qgwI1bfsVSipnwnE7WDERAdvv1jjGT4k0Ue6hlC3T3kD6TOxXVYl6Mc9SYbn_d-IvPXLCTg4=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/F3EqU2VgMS9XZtnO4i5vQxxVsOeNE0mNPa1s9CX8CCxqx2uPxzq7vW46LKcs7f5vNu6pLI4xSq7rNlVO=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/q7xctxOAHyrVjdg5ORxjgSiTQrtRE0Z3eOpnVwrIhWfmv55o2bfIKTYlTH3CI2P0x_XpHMi9oabFuPwO=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/UgrwxGwLZDcjg5jM-z_h61zGFBGs6mduEgsGYQ8-_l53OCAqwlij-P-Dw-_AToTIGiFj2KNt67Jgscfd=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/yXGUT7mtsKzZ7MyWHiPS2_VntMGILrfT7BtYmM8PfegzQp-2d4r2uxRaFJHKDLV1j5jldoohd1GgzaZc=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Hq14vxNWsRG9gF4wsrKdwHw7I5OWni0SCfiEcRYs74MhZpUib7laYlJSfcivwy578fnJd1RHZxbhicr8=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/oArNjOPoz6Dh47T0M_tJZzyBk-ANzYX9IHg8QQMGQgBt94sv3csi9sc0i_mlKS4YoLaNpEoCZAcVBc41=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/lMRkbsKtS4rYY_QtAATVvyv7XPfqOLef3LzBfQtecSRcMGJ9YvT00NliChH_Jyf93T42K8DoloJI620k=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/AqToJ7hOrSWCjdGkksjaFI598zOAZMJ7GrlBHv01EpCfzqokM2Ot-Q9s_AuUa0ccLebkqhltelxd90X1=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/-HjiQdcyrHMKUjRDL8VKrJIIZE7gvuY8lr_Fz90dGsEc0DTFokOrvlcatFPhmz0r0mTc3lghP5VjU5As=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/_gmfjjtz_1rMPnRqOTfRBgi4TeupianL8iW2lpC5QzInSEfhFRRT_lWJKDCRKFAp-DQ0qCOSTCv7qp2r=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/j6NIhnq9MxIx0nNQXHhiVy7O1Cfd-2Y2vJveHvngXfUQaLxTB9YkOo2i5WkC7q5Ilqlpa-cFe21w-jpH=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/mywMKruHvB8_SDWUKWy0nVJg4uCTkog3Tc8_35C9bGOgeXzDbixvzQykZJFZWuxIkQZit6s9QItZmrzP=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/dXBKSl1EFjYWJ4H2n1qEUJvwVRrrawh3bBqn6ZJsZf3b8YV-lOnaKQxL81ZfLu9nu-U3kb7n-lQhaw1Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/SAV55ba4voeqANQxyf0rftMeSGyj-_kKHf80ofVHG06CY7FUT94YQVFus21_6HeO5sQD7vY5ORPks3mm=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2016 ACM-ICPC 대전 리저널',
         'pictures': [
             'https://lh3.googleusercontent.com/B8y_ak4ilzXfNAl9dRLGKUEK_QkJUadLYMuFL_4lS0BioR5aVVIx1jeQ3VpZuZNo-IC2rLvWLc2Z-js2uQ=w1024-no-tmp.jpg',
