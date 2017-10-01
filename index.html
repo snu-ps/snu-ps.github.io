@@ -16,6 +16,7 @@
             var album_picked = Math.floor(Math.random() * albums.length);
             var picture_picked = Math.floor(Math.random() * albums[album_picked].pictures.length);
             document.getElementById('front-picture').src = albums[album_picked].pictures[picture_picked];
+            document.getElementById('front-picture-tag').innerText = albums[album_picked].title;
         };
     </script>
 </head>
@@ -35,8 +36,9 @@
 </nav>
 <hr />
 
-<div style="text-align: center; margin: 30px auto;">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 60px;">
     <img id="front-picture" style="width: 90%;" alt="front-picture" />
+    <p id="front-picture-tag" style="margin: 0;"></p>
 </div>
 
 </body>
