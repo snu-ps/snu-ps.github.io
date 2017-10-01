@@ -10,16 +10,12 @@
     <style type="text/css">
     </style>
 
+    <script src="/front-picture-list.js"></script>
     <script>
-        var pictures = [
-            '20170923_144108.jpg', '20170923_144441.jpg', '20170923_144450.jpg',
-            '20170923_144502.jpg', '20170923_144659.jpg', '20170923_144800.jpg',
-            '20170923_153809.jpg', '20170923_160436.jpg', '20170923_160513.jpg',
-            '20170923_160601.jpg', '20170923_160610.jpg'
-        ];
         window.onload = function () {
-            var pick = Math.floor(Math.random() * pictures.length);
-            document.getElementById('front-picture').src = '/front-pictures/' + pictures[pick];
+            var album_picked = Math.floor(Math.random() * albums.length);
+            var picture_picked = Math.floor(Math.random() * albums[album_picked].pictures.length);
+            document.getElementById('front-picture').src = albums[album_picked].pictures[picture_picked];
         };
     </script>
 </head>
