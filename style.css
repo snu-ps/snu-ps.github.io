@@ -23,12 +23,12 @@ ul {
 }
 
 body {
-    margin: 40px auto;
-    max-width: 700px;
+    margin: 20px auto;
+    max-width: 720px;
     line-height: 1.6;
     color: #444;
     font-size: 18px;
-    padding: 0 10px;
+    padding: 0 15px;
 }
 
 header {
