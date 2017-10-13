@@ -66,6 +66,24 @@ var albums = [
         ]
     },
     {
+        'title': 'SCPC 2017',
+        'pictures': [
+            'https://lh3.googleusercontent.com/T1klLwhLeMevkeBj-NvQIw2eq0oaFcDtkk2UyUcc4uAqcUgjbv_ciIrYxHa34ECvRx3o0P4AeIwthM4TiQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/RKQsNX1TVfsyooJ7kqMuRrkCMlhXaXXYJTpvI5257eoB9UKPBsoODCPLKumV30e-Z78LPv0dczvdh0o8gQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/deyrolq_vYtCqMwU_heMzbvIiJ6xjC7ri0MlOZnlubzqkIUH_P7xdRYaPX4TFlXzdShPMD6Zr47ghTw7Lg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/5CC0nDUgYsVx-WNdphHNUDXfyM0SFG3y8xdOa4pbdtQJDChdpAldoK11qxFcDFgpZ_eJs-p6FEA7LBDW6Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/f7P2NmpkzORCpcMpvYTvId8aJV9tGgvlOI3e7F8e7KopiFSZ9wLzp0cqPVS7fuw3ST4wbbQ6Z5wtN7lGDg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/tOkh5YLrKamyKxiKHC0DtcJjAsb3F6jj7cXXZMqeZeEOg4kp_S6SlBDXlLPSP16jUKjt9LVjyHqhbCPUoA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/y4Vu2Rob8o6ag5bLVeVNOrcqlkY-Ju0Rm0zoILS4PZZaRgNUxD-0wOikRTlZwc82mLKxshrBgZ3ZZ6d47g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/h2IA-QVSFOKC3qtCK0bznxT4sKRW1Z0VZPJF-gklViUHyRFCB7xifuf0WuhiSNK2gp_yLG3owFKBb0qvog=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/T_LWWInLSzCnWlxUstYy6smM-bKSC8BpBGPCl35w6v_1lxPH2uAo60HhZz04fIc70PcuZLYbF6TgBpdzCA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/tvwuIbJlv3tfyKQ-D6-aG6H8FLmFxrf_IXo0yFkNyn4voqwNQ1Y0Qox25SNwTYSMTglVI4BqOySinza-jw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/wXQCDMnpb9vpaoBM3Tixi3YRO8KczHCqcRgBMtV54ENINQweuFAx-KLIlChrsO7p40p4zNQ3D9Hwxl7-MA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/did33Ti8pbtYC0-d0E2WTZtfRH-5O5AEqIP-Efp8zOiVLKtD0Tb78K6pc_BtsKrs9sGcUcC39CXVx45jUQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/MSQflahshslfRGvFYcs7lpwVd1fyNb1xH8KdCfZ12tX1aZlBcqN8SXOSc3Xe_T6xpke4o0_wIK_E62vIWw=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2017 ACM-ICPC World Finals',
         'pictures': [
             'https://lh3.googleusercontent.com/3m_j7NlKOqyEeNuiFOZ0VsoWHfdTU09B3JWbxVEhXdnsP5D-y-mpgAy2WbHVI29leHOy8SBqt0qcN56Drw=w1024-no-tmp.jpg',
@@ -200,6 +218,23 @@ var albums = [
             'https://lh3.googleusercontent.com/-Nx74CjYe6BtYvYrdtwjBYQs6_Zv7233kGgp1Nzn2ci1otvVt_Pb683wKWZt2CbUQNE10RPdy4e3VqINlQ=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/PlGixDrXh_pfhIM4opkWbYMkoiyF6cGVnZmECdYt-vPdCaaqvvz5JhO10Ec_MHFYdq-Lc6BZvkfkkpd3Tw=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/l8fPZaQJ-3_mA2kLVbWWuBRgj3XnZdjlvghYJSt0xZnO2Z_-fwRKVnnaVrSRGIUf6z52KFyd3T83ksUsMw=w1024-no-tmp.jpg',
+        ]
+    },
+    {
+        'title': 'SCPC 2016',
+        'pictures': [
+            'https://lh3.googleusercontent.com/1wG_66iU8ZQOZNaNxIPNYPrGRDnMrpGUX6YZZlv_VUBkkogRhGkw4MFSnasnfJ4syNJDZ-Q8KLBHXwahhg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/icU7CToAoaY-Vn6T-h8yIsdZaXImVgMlRqGMDr83fOLpFKyiFJRGnQghKiIy8VE835SOhIppMli3-LSzJw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Mq_yXeL9YtaGXJPLm7awWmTUVT9fcFjVAzRKJa-0vc4Zx5ByqCUVahwR0x-e1bET4aq868wJQAWKw4rs9g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Ls2kjuis8di7tIHmSXBVR2h0xVfwYHmFFRjjPo5jSuT0E36Yu220QXAV32XlCnc0NcUYcx9L87h6JY_D6A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/0guMURlcsB9Eb81ElqBOx2Seda0eFN-BbDeSZc_AFQ_DeHEbcwgENzPQxFd421YDsog8XyR9CAV9a6HX5A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/EkydVoReQ5MGDRO6g7BfgaKIPaG8IvfBBv_IbOp7A63tkxYlH6mO7RQkaCONX8n4beUIo3MhV4bvhSIfTw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/TCgGgUei893n3epeFvqOEasJSD9M74SEq5ppewT7ZuJQa3DyMF9EBrnYzXBZQaz7M5CHR2iGFAI7WK1nug=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/CRpHfIZRXJw5DxYpAVvbPdNHzboWVe1MOmljFMraV5HXP4EujJdEzCxAkKjOnw6eb65qLtcPijvIIOjWKA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/oWyprbd1Qgs-ZKJm5bVN5kngj4vrmAzY_WeVAfhAxP4VqhfNH-E6ASJ_plWvj5zsaIqZAfUPohJUw2eY5Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/63Ezg-_yx9KGfxI6520NSfNCXVcUuxgTJRRE_4T7BYaFT7tHa3TfuAIrfglfpOwjPO71ehcCsPXMWJhIgg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/gxAYqh94rSOxUf5F2CEu75Vg9ih_LZcyiUaiwuJY1jaumwNx2s9TjVNf-PYCEXlNXV8QObLbK6ukA7mADw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/WdYJIpkvD2gob2UPNppDC-t3k61ynur74GcAKjE2b3_RK-kw4Fj_hbqYPr_K0os5wNeMNTqWrcrodZ8jOw=w1024-no-tmp.jpg',
         ]
     },
     {
