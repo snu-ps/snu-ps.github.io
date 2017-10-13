@@ -66,6 +66,39 @@ var albums = [
         ]
     },
     {
+        'title': '2016 ACM-ICPC Nha-Trang Regional Contest',
+        'pictures': [
+            'https://lh3.googleusercontent.com/7CzhBUKk6q29RVbYlJgwIRJ1VPYvcCo_vjacCmOxn5K5UjEWUP6s42esOB5PY4eRza3Up7N5ZX8Bm11Jqg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ClLL-pgDzkUEP2H_Tuhq92QgMI-kAFbBCpaQ0rbXOLKTut5iOiCO-KTN5_TbXzIpG2bYPQMgcVDlRa3Gfw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/VbkpVHhIv6c6MgH0o_dxDzRoIlg4mpWjmmVVv92Q9ZHzxlOUmtYjPlgihoXcWZ51c-pqtYlPlr-9LBBZtQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ILla7z5NBtCjTTXQYX79_u6KrDZjk8ESXdpRdcJMeLmKgE-53UhHTaqg9Yd7LLpq-XErwvjkllUzxf1ODw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/aVKZoR1AvSyoS0B9_-CW7Z9BBwo3BLVQNq76hMtnGsK1-lJpirphqbrd7gRzwPK8h2faslasPjfiZNVxxQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/CMBO31LD3MDHF5Gqu7UlSPNfxnG2XIp8kI6RcmZ8XL5TE9WlNjpARHek474WTwv1iI4MHGVTBFPWp0sCWw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/w8UcAg92Mv9jzaTngnUIw3Pz8afN-6XIHA2PypuO-ws_k2WfQukM55EES5eQJ-KGyqMGOffFKyCgPIlspg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/IBiYYjbNDGZUUZLpq0YvEfwqpvXWGNQ85zVyrPUYikOxV4ikh-3zOoC8335QOfTi4PsUBRtnCsj6vuy6Bg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Kn4Q4e7EPUyEqxTK5992Fp2JelWMiUZMy-5SrJ16q85jSi4Y0dtVOJZyZJeWiswbdjieXabyTz5jUK25RA=w1024-no-tmp.jpg',
+        ]
+    },
+    {
+        'title': '2016 ACM-ICPC Bangkok Regional Contest',
+        'pictures': [
+            'https://lh3.googleusercontent.com/Q2_F-fsRsZL4buWhT2qSnbMoay-kNqZ7qidZT6B4LDHLPtRk3eHdW2-KFFoB17lfgvt8ZECVcNcK7rWO5Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/sdAmtGWSvg6Y4zeNW7jEMQctKdjyUodXhXUUzb2KKtaPjEA5bmjtK9GYoSFl3l7j5kibshmCi1Nla_Sv5Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/z9tueceDaasw54a_OWjGPyF2nOee3JM8T5UfjAQyhiHDV7HfMb_-mMgCtHSrrgYmlowIInUNifBFoGprqA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/n0fRQl2fN5CX3jeQ9T4Biy-tl5WUDvI_Dw0sTOQD_DKuudGMrMgfP2GGvVH_09sVgkPlcRG-OW1VGX5yUw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Bx8Z-yq0-cgBPUk1aOJnBKvxFupst4s7R2TuDnAGy5krbctP4F6Q40smdFuZrSCkjixHzpBn7l8wHWYuqg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/J5RbHMnOXGyRKRr_CvzgAk3o7siqb7IXHkFhaScaikFNJHiiPXZ8SY50qw8nKYN0-Cq3zIS6Dbg9lpq9Gw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ZI8KJkIXMVGbkPoDz7bIlJCfJAL8vB90nnvcfac567Klb_ICHOxpDMdQ3bFTO-D9RDitSpZfnUa4ZPRKcQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/f1cOjA3_v6ojAAt0UNxw3eGXt_G9zjhCUZOyJSFrYBOvn7eUDi-2e2oCNi61jLuO1b71xvRmnAI8m5OoOA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/BkBMCivakG7rqVOaFQS2pYqfJniBpe8lEI22fPQoSVgccS7ryOh9FujzlrUzRCrZp_7HGVtWoU2yLEiUlQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/58hXCGk_HbdbvAuEFOZ3dgPFKPke5uUTaNrTgrBOmCz1prnTV-Ts5Y5OjxwCsSLW3IyVx6nVH4QSBAX8fQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/OQ9InF4I02SDBRzCCyUOXhrkxZWxCz8Tf3hFQ7Zbalf_i7MBK9_ClS6FZpfxEPDrQtBX_rMa3BRjFpfaVw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/iH6BV3UbeLdejYgAPFxdAU_qV3B0s-utaUn-v2IIUcgzYOfhgYlRLP1XWXxcYYWYtqGIwHJUUsU_MaBtTQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/eTg2_2Mui1lTUH_mdKnq6VRqm6dF1kG2qc1geCfEXQLWnJ3x8dIxe0DVt_Hly530l75AD0vHFF8EHArBfw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/L45B0mdJHtDS4FskOlLuhcGJDYuaDFSyGtD5V1KjgQ-haj52J_vgJrqErexv8j9mawQWm3TlK7phxnStzg=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2016 ACM-ICPC 대전 리저널',
         'pictures': [
             'https://lh3.googleusercontent.com/B8y_ak4ilzXfNAl9dRLGKUEK_QkJUadLYMuFL_4lS0BioR5aVVIx1jeQ3VpZuZNo-IC2rLvWLc2Z-js2uQ=w1024-no-tmp.jpg',
