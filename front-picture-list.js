@@ -66,6 +66,19 @@ var albums = [
         ]
     },
     {
+        'title': '2017 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/3m_j7NlKOqyEeNuiFOZ0VsoWHfdTU09B3JWbxVEhXdnsP5D-y-mpgAy2WbHVI29leHOy8SBqt0qcN56Drw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/MLgiw01Yfe-KPWqOPwufRHJ7lwfckjAoV3t-YymOpcZHONZDsaj5FHIb6KnkIFmC79PswQVzhZD_3PqrLQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/cMi09l3fYlA9-ogheKj9q9-4iEBebUn16NOBjx3okuU_AMM6eBXzATYc79nZ40aDuy3duSYuR2K2eNODmQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/gFbRJooQwImJT73jdzp9-TwwSnLn4CmjgUr5B7MkgmUisK6OpyVQGWE2R_9W16OUde3OV5edCrVcnBHp8A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/s_DgV9Bjj-KbYyp7ZXRFETyyxkEYnY-xq5tSshYqTfElCX9j-WEI0BEtVVr6wpfY4QViszFg4rp9IdvAhA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/tAenE7LUObVZkkq5FKcvtTruSjUYkvKj3SXRPD7kssNKXv0b-Suqe6RQWxoftTfYMhkfZ45KrsswPu8TLw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/hz2Mlk1t8RDICz7OqaIZ3rhDEDXVYaEmlJCg5POxaWVxv4ri_fpcM69hCYtFlambxgQLk_UXm3uAMq1z8w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/3VI5CP_5Zfww7sv3sSxFH8cDsKjx1duiirkW3kqvY3qRu05Nxr4ftEvU1VGUNVtaIXNwPLIrJO8og-YJ_w=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2016 ACM-ICPC Nha-Trang Regional Contest',
         'pictures': [
             'https://lh3.googleusercontent.com/7CzhBUKk6q29RVbYlJgwIRJ1VPYvcCo_vjacCmOxn5K5UjEWUP6s42esOB5PY4eRza3Up7N5ZX8Bm11Jqg=w1024-no-tmp.jpg',
