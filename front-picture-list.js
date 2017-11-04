@@ -456,5 +456,36 @@ var albums = [
             'https://lh3.googleusercontent.com/X3Rv87_x7tB3jAGUsmEfE76DhSR5dAERK8IOG2I6KaCKhmGjyGciq_xKhMm4MBpcBQLRs4i5Mv61cXJqYw=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/f8Yzgj3Rr-smAB59FMgP7cf5LIF9CRKgstF4Tk-pce38I_HNP0csvfCUdyF6Fm2IvE-d8wZ0qY7_x5y0Sw=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': 'SNUTOC 2015',
+        'pictures': [
+            'https://lh3.googleusercontent.com/qu5-j9lbQOpFGi0Q5h5Dqtvne0PsGFe4ONu-mm9Bjm-eq0sgVSLOyLEt3NnZGcLb9lKFnMbOG2vF-gTSbQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ZKfmg3HKat32jpNNN_sPOzCzCCH-IcRMlcLmU4P63SG1VPvFVyF3oNja8l9PG8zEiCOmgphyzy4yFAITYQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/8ltTtwOSvG9-gkKkDBnhIqHb0Ued_ZfZq-e5-txgfS1mpSssM_Ea7ne_imkWABVb6U9X2abdFSTt1DU4FQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/i9Jf5ggpMg5WBgGKCLSD1tY1518ARG6cyaAIN_FUmJOorBInHK8mGaQaG0GRQMRQmxqdMkkcoi4zHMkmeQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Zy2Vet9fz61UeFKUfwnpjoxspzaLsO8R6C14fPp41ShgfWB9pGpjwAmTuiDabf0Lw7V9iipM_yHqSGIKqg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/wY70XYwqj1H_nl2kPkmfDoToE3E5cefR45qvDxK4KlzdrIAkSfSB3Lyxpy9vmfd05pjnSqC1iMHY4oItBw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/lC0wtibd7bUy6GZorjxJVcpXGODgTXuiul3IHEGCNJuRMF5Vb2XCaRyCkp2lPqCM23SGIdigqhTGtLC3aA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/CJZQwXlwMQUtkVv2ZlwsCQpkcAe_ojVO5CTDcUzW3Ecpn7H2zLzeb5HkiDJS1SSWp7oF8Pl-bzkA7osKSA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/1K5crpFt5lNBky2iNgU-RCdIpIuhiVEsd_9IUfyyit-bwR4VwAD-yBkMfaeSTxCZkMg8gQMbmOPndPBcCA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/M9ej3szB3kpUlI1-03Lp3gPLye0YHSKR5rz7K99f00dRI55uXt43RtMzcgg10OuJIWhro_-UWPOVgp2ixA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/4ylsV-u50QmeLbFnDvAOCwys5uykgRONFQjO6lP_zCUQQaRgvuiFPQwDceoAAVBovGdgZpOVH4mrnw98xw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/KdPsN_fHsMgDbi8rlz_PNGD2OyECy7oEXSP7KySe_SAzkfDu6fRwE0_RrFWDW1sbmSjeBCWLeVVAZe0qPw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/F3Oqvfo7vB-BBuDKSrlOHCjwzc-s2C3DEOBaXSttM9E6hCPMFqAVAOTA9tUaC7kWRsyrFw_-hZ2FHYfZSA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/CzMzsgXWL2WU4hbGVBxsrUxoQDZNW8nkN513lepcW1pDvDmnT-8Tj7EduTs3u8G2Xq-00j3CBl6jywSNvg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Si8wfL_2Po0nodJ3jHjAlhl_qzQGEqbjNpAUoD7h4g1YUJkDbnIZzu_RGT4Rd9PczyPlKMupgCZrVez1gA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/aiBsTKUNM9henPaWCqeKIDQ-8nuLM4uOd1I5-7sG5g37OQS4QdVbD-r5CkGjTZw_67LyubxUzLLMyjyVkg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/cNKof-8VnqNVcdKVoIQ4hjqx4UL63fWeoBYuGImY9OfP5d2WLcRFDUY2xxvTBdToea0pIxxIProDAWBVPg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/y_gREwcylcCYLcxYD0JEURGtZAVJYO3eEgdVKuZwobOFWAYuCXOSpyHIcTwTYtuLs2LW0zGlxJy5xxJz-g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/-QEe7piN_0zCgLU2XpwPXVqsZpyFIIRd498skIOOxhP32FayP-gFAv78keXWKomrpGi-ri4luOZHgWlILA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/h-saurgf5wMJq_aLSpDlOFRzBFz-RxVAxIXQftwp1qmijzpf1XEtJnIoXVcDblYfwILZwjX8Oa4IG6zFUw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ov5ltajd4LYUuKGmdjaAdIL-UCPRZ8IdQnORGdT5-dvYA9Z4QfaB75BKxwht0EUagMamMHLwq-dW2QOLsA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/B6K2jFRA4Yl3Wyz7sxPhIx29zdLZ6k1A9RON11Pr4yK68EMXfD5DUO_W7lRxKF0qpgK_i6YDnuttq4uu9A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/m6hdz42n7M0-g_zQpKKMzAzENw1A9r7DA9jfDjeGh-CEID_BOR0Ei5Bz4y46M9WMcl0jFBXhY5CyHAvL4Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/jHrZ2ySR1Dq_Nge_T7Qrq8z8SUWNj9SO8fnuVgQaaInj8dKkaVwBViGcBWSnDzDiZ_2JqO-8YL-PcUTNwg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/4JmBnCQ8iGOkADrBzFt-OpWyJAzHW6CFN_t4oQyrikybTdGPUj4OaEMfceO95DRngkCG-Z3gKINNCHXQtg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/w9JSP_l_Bf3n3cNgUOql94hr3ZX3QrYpqzBpYixiuejEJS_0fEGfQhESr6VtsHTL7yTe7IhQLo0flERBWw=w1024-no-tmp.jpg',
+        ]
     }
 ];
