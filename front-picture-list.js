@@ -131,7 +131,7 @@ var albums = [
         ]
     },
     {
-        'title': '2016 ACM-ICPC 대전 리저널',
+        'title': '2016 ACM-ICPC Daejeon Regional Contest',
         'pictures': [
             'https://lh3.googleusercontent.com/B8y_ak4ilzXfNAl9dRLGKUEK_QkJUadLYMuFL_4lS0BioR5aVVIx1jeQ3VpZuZNo-IC2rLvWLc2Z-js2uQ=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/YUAZgJeYhRvbDCCGyQEiaecjQshjxAunVQIyjs828AqMyFE_ZQ3b63uKIDxKiYHwIbZ1uZiGyZ2KYQpoyw=w1024-no-tmp.jpg',
