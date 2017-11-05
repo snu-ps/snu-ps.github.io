@@ -495,6 +495,16 @@ var albums = [
         ]
     },
     {
+        'title': '2015 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/QoJKw7HCRuPh35vM7ghQTyVrQ2dzLWbTatpqF9NW6PMF86bHArVFShCAUD13KAL2AIK41TVCPZWeojZNHg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ZnVH-mKWqNMYarf-l7MuZfqsYwrJy_JCpXBk43Qm_kqqZJBB0072j3HmNn7rwB3udwSFVfIv3VvEqD00OQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/5Ly2VNtAEw_d62-CfxAF-UXBDwzKxhJiYPFuuCIVECaXO_adNeqowwm-G96xQH6fd60zWpzXBifEM86cBw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/SJjWjXhtrzqBmlHn8VVIaZVWUBB37CJcHYoV_qNGJ7kusRhVagBWjE8-FQMOksFEo9pLfFg6g_KAXJwSXw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/nFUmK9PfE_4Yk0Cz3ifruABOaiIakTIXBOkMRcB-HqIckwRsGLpY2Z_uWYHNyoSiB-kq_YN2sKYE3rQJmw=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2014 ACM-ICPC Daejeon Regional 인터넷 예선',
         'pictures': [
             'https://lh3.googleusercontent.com/wMzaOzTxyJ5Rz4Ezc4pyzCU8yFIb7abNKPII9JTaK79x81_53BSpp4V0h8S_keb_UyyyYQP9npVr7IOG7g=w1024-no-tmp.jpg',
