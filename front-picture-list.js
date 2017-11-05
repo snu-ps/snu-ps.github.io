@@ -525,5 +525,34 @@ var albums = [
             'https://lh3.googleusercontent.com/jLTn1HlKxIoL_NgoLtd_uWvGK7Ek3GSxXgmzprj3kefF9Y9hD-11Wqdh4hLDvtHmlE1ZWMWshceblp3dzA=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/ytS0Fj1AlYDUjsY5DWWSEGo9Rz7BsryZOZnEH7BfPTkGsiIg1i3JrMtNZV6leJhsbLMgR482FnEQ03Au9w=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '제4회 전국 대학생 프로그래밍 대회 동아리 연합 대회',
+        'pictures': [
+            'https://lh3.googleusercontent.com/wSXecNPSos-x3XLrhgNG--MIB_GjBkEU_v1cVrldF0J9pEpETPCRBYZLleeH8epFNwmp5PuQTAPDsplvww=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/uBj93SKjADPfIdnSNIyWk69jnc2qPOIsHyJVb0P4beDv6VNHkfuOkFfqu2bef6VfFF42lFG85PdcmiMNew=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/nFDMidwTNIxO_ALv_f_z3N-1KxhgOriONHw9yyYj7exL18ru0-Ytpr4aLDnJNy7EOByUTA5YU7H7WjB01Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/9Z7-CrHOTn_7sCKh-QEgyaBdQilXQizFwgLeQcyQ9XuYiayPJSkDwKRypNpgjjSO8Y6THHpBHBs2tq7wCQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/p7Kce-CLy-kDaQYSOjfc_SVrIcfLTfxPMG5asAQ_tcNzKhMW6g2_eb4XsxWeVyW3I2BSTEJ2uDGRowYVUg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/H2FI2TUfDg5rqlIM9NJR4z7iAikDi370rYVWKRZT0FVjj5X13dRXoD4o_xNQ1povxxL_Phc_iWwbbiijjg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/0S0AWHOfxM3RExuKezzlWbSpWyI66gnuM265uEp55iHv2xYlbJlQbID_BNwFCCWwj5ymoFznnA-A84NYlA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/XU2VvI_UD0cvzv5V-6B-3GaZbyBl8QYGzIWTOqRI2YHqUdLykWngPpB6s5YM1JoOa1ZBJuMF29GjgVmuOg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/rhMqSdVKFk-TGw8mqQ3kBtl_6TFY7vHsmEAa4Lm7JA_-N294qM0QdZ5vuSviRGemlXu0IlDn8bK2PqVHbA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/kifByyLlNVcbHXXb2pxoovt8B0Vt_qqk8Cw2ITJE-pIgmDF7-YUjyFUHYI8CnMIf5Wj4ca8p0a0H5aLSsA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/HJbSmiJgWfaW0FwiiKFnwYP-T3yM5Deqv35D1dg-mnygYSZgJ0y5oX5WZXvO3uFAXuZ9vgrYNIN5wozEUg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/FUUymzD1Se4QSAG6ySibkEqmh-tg6eFwPeQD8w72nyVz7h-T17XkVroFq5nGnrtg4uIzidFAP39Tye5a_g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/f6zEmYgUVyvifmphoYURSCmMiRwGlNDIhOSSCW_iyhAnJDZnZkcyo980Qbt5sWH06CO6HxyknhPf3IEVNA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/RcZrkvMYbCtEY-6Ruvo5Hk78QW7li6W8IjiAeqZ22SvhK26uGVpyhmDJOzw5QlwMw3Gk6p2qstuVwx7Qrg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/0_GL3IyHAHejHeAHQ-76XO5-13gGIitUDPcaqPkPcGlhLQ3OUB0Q-vJE7tbUN4Q1foU2zf-2eWPkE-tVfw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/NSW4jyNsg6C_MBTg_wZ2SMB9Opd19Kl6uRwbCFAp5W889MbvCaH6VKmQOEe9zmAU42scD1-sgW0BC_JbyA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/BFO_08FokWP_DpCG1ZngI3-Ckx8cGwAvVfgMTNf6cR_WtFo74DGffTq4jGY-vsfS2TPI56CV7V621AYXlQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/BDm1ahdJExPEgEIkbE2JB15NxgQCpX1LmdgwUEF4ThUViMrBqdLU0pD498DhCDizMmkiE9sEqe8TP_2--A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/d8c0rduReH57tAxhvOJZjmfEUL3kR-q_aIqo1K49SaVICdAZkCuAWpIVYZSMsACY4VfBnOSa3XsJB_TfLg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/FEsUQ6BDCyTWzAbgI0NvyoUrwyl9llymGc4LJGo4Jtgf4glP8XkhX9oHiEgElve7d71H0OvYQ7Vada65Pg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/SGkVKwiGg4LUKgb-MQ5k28QTZpnVvjnDafVycvtoq5wxljZPrM1CENSCD9rjH-Wl_gQPIOgR8fgD14WUcw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/am-CoJfmg9ZfCaVG32CYUPms1v92xe3fT6UYo6jGfarRc9GTL9WluuK1pwwgWs-3HTgVUCs_lTW7DdEnfw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Fj4HfkipmLmDFThfFLL9vtYggjGhLSuXJgJ4u2z41-lNIEcr2fGYGo6SbcmyEXHRulsqTP6IbHJEIG0qTQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Ff9bWaY-bDAqL84GzHTqqOJLmC_VZoIx8UhRGRf1KTon1b9h4aX1N8BdrqPIQ7bWyrtnSmlr3clMFrm7xg=w1024-no-tmp.jpg',
+        ]
     }
 ];
