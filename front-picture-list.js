@@ -98,6 +98,12 @@ var albums = [
         ]
     },
     {
+        'title': '2017년 1학기 개강총회',
+        'pictures': [
+            'https://lh3.googleusercontent.com/Nr6eDkL_4o2mPnIXSJqE_MJsjezNgqiB3IoZMJdth3Ew5hLU8Hy84QInvW9dkOOlEVE4lf9mjqX2Q7BNuw=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2016 ACM-ICPC Nha-Trang Regional Contest',
         'pictures': [
             'https://lh3.googleusercontent.com/7CzhBUKk6q29RVbYlJgwIRJ1VPYvcCo_vjacCmOxn5K5UjEWUP6s42esOB5PY4eRza3Up7N5ZX8Bm11Jqg=w1024-no-tmp.jpg',
