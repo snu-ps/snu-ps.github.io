@@ -643,5 +643,25 @@ var albums = [
             'https://lh3.googleusercontent.com/Fj4HfkipmLmDFThfFLL9vtYggjGhLSuXJgJ4u2z41-lNIEcr2fGYGo6SbcmyEXHRulsqTP6IbHJEIG0qTQ=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/Ff9bWaY-bDAqL84GzHTqqOJLmC_VZoIx8UhRGRf1KTon1b9h4aX1N8BdrqPIQ7bWyrtnSmlr3clMFrm7xg=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '2013 ACM-ICPC Danang Regional Contest',
+        'pictures': [
+            'https://lh3.googleusercontent.com/yoMMc7PMv6MCRIxKa4L6yg2oK-5QIKRMCl_zDAVGgnZVcgFm6joLvc8Zft-g10yi49YuthCwU6s7FTdS6w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/wCnG-_W_ckcQ7aNHhQ9o-9vsD6oRQ4VMrevx2eNTBaMDNj5vpoxEB3bVt1JEGVrPwD-qbU3PheMpHVMdXQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/tDI66-vzgKtPp3ds2LGMz9O6rYSjkjfLtlCRP1TOXH2Uij8aGhC6nbmTMjYVUDyiCAVF4w5abGZht41_tA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/cJcBiXImVDt553Q0jYEkdCWxOkmIE07-hhMpSGA1b9uSJ_4UtbvSU-szz1VmTUTHr709YBf2D26EMXZeQg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/NekBwUqXq-yyyrIdiu6yaorEeUhPoKhl5A7bfDQZmVp6qA33mKKUD_fiWoDXCnRZ-W_7F0cvCgLKcr65Zw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/xi1itSwxR8Hn4YZkon4vHSgtqzjQLjT3qH9kNJ4En8iK_1T0A-1UDDLmCdroBZbUi-dMLHSVScOtClTX5g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/FvsKc9vUWqSyNZxFZh4_t52GJGuBhXg2Q7X6CIn7LtFvQJ2Ww75rDFOwYdY6n55DIOi0jXcQnSouWsHOMQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/XjPYB5BQTUfl-cnsQGe9OlZU-MlDO9SWFl1LHjKBV0ExTcwX6ThNCvWHDUA_FWEdb5mEev6Q9db5FojP7w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/my7026Hrmd7eYFeFa79I8vpVVn-AoDZPVc5TrCFEoyddDrvkIEn2oJlTR87Xb3Wm0ZlEC0YgY79RMI9JhA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Yef68rZxtRp7IfcPUoEGHxzgDKoZLNuh0caZE5ZPkFAkFvprcnLVI99iiiz1KI2MBhN6i-OB_UbRgkwTPA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/0XAwLGWqGvs69yDxXJ_ancIuN7wsQxfoSwPT3zcBUAya-1oDbcIZv4HL4smYtqXqdW7Y5Pm6qYQflK7Abw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Jyhegva45640fUJ1DiuwVOvz1rrpUGM4fDNd-sD4WiWXW3jY1Y8oREdCA5Eor-2_wjnq5aymiqd3rSxfsg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/1ocq3C4wwa1WEHStK3uDKjzhnzP0Gcuhzitfag-JSmC3Fs7FjSiafbwsKbIbjTqdk6GG9VC8OtGp1QVBIg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/koI0AAXD4Zx4bNFqt-8BsulBz5nznWMxg9rYs0vnptXjxFKutOmfe4I4iT_Ts3DmBTVio9UsxDewaws7NA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/WnxCgl4gWq2REKzKBZJ4ks0CS6O4dx2ZtZN9CusvszQLqUbtF0H2zJdgcMfDC78Yz-upTCkyJCq5PETkOw=w1024-no-tmp.jpg',
+        ]
     }
 ];
