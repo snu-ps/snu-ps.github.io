@@ -811,5 +811,20 @@ var albums = [
             'https://lh3.googleusercontent.com/I-Sj1f_CdtcTNMQagncf0ohGcUbImNPJfxihzMSKbtothopzn6pih-E_Z69PB9srYxm1h23uo4zZgonbtw=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/7z_3mQyYPKVgxlW15lXZX3ZlyhdoJ5arW2mL3Go0FYEAHHmfVy8A3PZxJ7q-mDwWG-sXjPtEBBT-qWj5NQ=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '2010 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/FZDwQ0XvgaaznA7mZzS0wvd7dtQswbLM-cl3u9u40adhnYbLARkjj4-EWcor1x77iFiIOJucgJDIQP5Riw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/lneiWeFtXTp9iOOSBYQFgqT1hHcYvENvMOUC8Zp-gOhrhqkJpNhQbU-o1wk1MSpFIQS2BEWUOj_LjH8w-w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/frNYx6290v2cjlzKe75jU1kAtrwUP89ds-zXFWDuE32as8gtpLb2T9qERqqHLwXDapCv1bl96RwUcWuU5w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/j7QsQDev8YKu6QIcMVuDNKXbKZEyjcf3FuVVytwEfI7gj26nGS8OAFUCfvaHw7yDlWHbwez2zi7HgyVgeA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/YMvsBEVRhl3d1g3MoUJj0cwZQa-XvfeO_4b7bzSv0POvQaW9qm3xw81YItJMbppJ6aPtPWJE9QrnHZjVwA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/MjDs_BrLwwJoPCZu3M4IwMDopQDgb33W1MMItn3cuykSc15lKiH698E_ajeYlksconEhz2pkmOYLULgT5Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/htoNf0-8TIO1_mv_znvA5qb61OueVT9jTvaZIy04vVCAhkBonDbHewwNNI0tshoLQeGVmsHxwOM8v9NAzg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/JAhMmAO2SyiNdfL2tu-hH59frqLx7CLVZDrHXwFxsvO8mjzaK0AE7YJSVr3tsFCt1RYyh6nZl6xWW4ESlg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/rqcd0ET1X5xWTgHmgJVujqnjoqzfmgBo55TN_OrQ3qIQNkqCulITRrQihDKQ0Mul8KJmZhZRVGas5VZ46w=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/b7rf_PTOaVWZW2rrnuD_JHHvmXjimGZATWJoouTtR2J7KI7Wx5j9LTA0QeXSZ-CuvsryOi-iCHdwH4PzDg=w1024-no-tmp.jpg',
+        ]
     }
 ];
