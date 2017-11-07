@@ -793,5 +793,13 @@ var albums = [
             'https://lh3.googleusercontent.com/koI0AAXD4Zx4bNFqt-8BsulBz5nznWMxg9rYs0vnptXjxFKutOmfe4I4iT_Ts3DmBTVio9UsxDewaws7NA=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/WnxCgl4gWq2REKzKBZJ4ks0CS6O4dx2ZtZN9CusvszQLqUbtF0H2zJdgcMfDC78Yz-upTCkyJCq5PETkOw=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '2012 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/eELGnhS_4SSr6_ueTXJO8S9R3Wxy6FVmZ22tIlDS5Fa0QfCC5uwmtimiWWPh-Rq0fxgNhECSE--oDSF7rQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/LUpLMxTe185An-_0NIpKAEC76S-Xqch8vDHgRO0bi9Rn08B69xtlaByknrKPw0_LuBU8tld7UoCwRnOtmg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/XXdsaPfB3taSlgaDqhPzktnlrmiJzjfrxNAqWbIsYJwAls2UOTeG0QMFRfJsHs1kV2vdlGAPy-jjOIdEYg=w1024-no-tmp.jpg',
+        ]
     }
 ];
