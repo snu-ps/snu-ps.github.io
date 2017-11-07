@@ -801,5 +801,15 @@ var albums = [
             'https://lh3.googleusercontent.com/LUpLMxTe185An-_0NIpKAEC76S-Xqch8vDHgRO0bi9Rn08B69xtlaByknrKPw0_LuBU8tld7UoCwRnOtmg=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/XXdsaPfB3taSlgaDqhPzktnlrmiJzjfrxNAqWbIsYJwAls2UOTeG0QMFRfJsHs1kV2vdlGAPy-jjOIdEYg=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '2011 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/xDzlp6OJslwsbZLpgLHfGi_wfUMMnjjOyimkHXRQUZEz7dHNT1qtZVaVSu2Mq042SP0t08-CMPh3GR0e8g=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/lG_hJ5KbKscK91SK5baVQfHsqNuPZjK81l_V28AXE6NkNSD-JGYxsYBroTOjilUHTTdDXShqMhg3yG6Nmg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/uHLGY-WBczMJL-ADT9NN2PaGjbCzN-6F_qq5dd2q-wxxQcKwjNAef7ojR0rucZWYJq2KvEPSBVLH3q_G_A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/I-Sj1f_CdtcTNMQagncf0ohGcUbImNPJfxihzMSKbtothopzn6pih-E_Z69PB9srYxm1h23uo4zZgonbtw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/7z_3mQyYPKVgxlW15lXZX3ZlyhdoJ5arW2mL3Go0FYEAHHmfVy8A3PZxJ7q-mDwWG-sXjPtEBBT-qWj5NQ=w1024-no-tmp.jpg',
+        ]
     }
 ];
