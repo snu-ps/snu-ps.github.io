@@ -399,6 +399,27 @@ var albums = [
         ]
     },
     {
+        'title': 'SCPC 2015',
+        'pictures': [
+            'https://lh3.googleusercontent.com/wm17Qy_dcAo8OXcTJcItjAm0liXci2qn9gMl0K3xmw1k5Kn3R2IHvy212vo4fc3vsAHex4yw4HEmXzrbhA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/GmAjyYSkphrxbPaB72ct3QKz3fg4Vog1kufmkhdwRndBZaW5IcSa3zFuArXNwFLmxPV_cTxkOz2WQxtTsg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/O9MOPYB8Mr6RjAMNN6BZr5TAdAs-dzKZnGjUwCgydTbvth9f82XO2Ea1AuhS_d6up5t7B17rjIgcajMNhA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/nIqNZNrt_Mcwcq_nfkOx8dL-WorRGqvvz5b1DqsKFgNaH8xuewRm8o1U89xOHzLWlZljDHDKyfQy6OQcCw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ySx5ypmF2mz1b-nn8OGL7eke4K5UzsmtcBSDRqM9i1CsWKtNAl1T6_hpaFOdJ0w1b4GI_T0peqHK1ZAC0Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/UVclfSNB_ztZmm6SWSk_67NZSerap8wx2MLlWQwkV6vyqt74bze_C54ClVhxH1-mtrDICV0mSQAqSfgbAQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/14zyAknzeoj9wqwuXTEvSJDPEBYGf-2XQj3VYTlph90diHfCPrd5Y1u0_hNq5R4gKvS_P3Tmk4mj6rPIGA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/IBIL1hHYrSBfZR9G71Wz5HCwbh_TK7rWjiEpHbmGHcQ9Q3M5E6Rm9LVNS0akMpM3T49ywUEFeIpt05wAUA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/70SN7MF0PknaABRFOIJTlN8Tis_2LKRJ8JKWpBDxBjd26XOvvFMZj8AtQqKNhtpum81NpmiLBDPLbwA45Q=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/eCJMCXnMm5cczH5WtmTwnk8qbR6u0hBdNGp5CX4Os8gCYg2czxnnVETwoso6n0zBxFYdp8V2LZOoLWC1Rg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/IBvRhQLAk6aKH2FL6RkzyiE9xEsLNdMPn8xzg7nAism4uXFkxtqcaFQHfNdyIPL1jldGauFvHdlv4NbroQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/gSBDeW_m8voIz4-gXcqVlH99sU642prz5RATUgJxgUaYjE3CgKPOjlU8FIiGV1axlkAzBySMRItuUfICIg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/w_eqyKTxZEHlsWHogmBomVQQx8m-XlkgKQUX7ixoK8DQQBW2qOLItfD5yQkX04j7Oo6V0PWMXuYSM_4XKw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/OqM4dVSl3lGWmlrJ_Py9Q1mKRqhH8XHnMXh9JGefspifcDbFw3X_baBH1b9DifiljTCS3d42l0uVDGDBHg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/iplgcx_4pZ1AOV68O0umFccfKgVUa9LfD0KPi3-7xgM__U9zPgUHJgStgsAn0EcaiK66wpUQ9Fbc2nAJYg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Wq3rnd8s75HgXaSKdyh8itQ8LBW2A_gH4H48nRdNqEP5YzIBj_iuwlJrqnLUVTChTIwz2UnRmeEUko4cvQ=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2015 ACM-ICPC Daejeon Regional Contest',
         'pictures': [
             'https://lh3.googleusercontent.com/_KAcBRPEXWBmWUqVikN-O2DIa0faMnAoxFjX2-InaH8epQqTYpqlyJ4jhV29SG7qZ8I49LvA_-CcCO9Eyw=w1024-no-tmp.jpg',
