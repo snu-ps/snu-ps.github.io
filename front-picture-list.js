@@ -816,6 +816,19 @@ var albums = [
         ]
     },
     {
+        'title': 'SNUTOC 2012',
+        'pictures': [
+            'https://lh3.googleusercontent.com/ImQr-LaWZ5TQAgYvkpociI7vYX8NnfmUTpzFPP3UfjAvPW1nJ8diqQn2u170aSscJUmsXxzx4fuw0HnOmA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/DW540XXxLsmo1LND41W4Yh1Rx0ja2t6WgVciHCHT_Senua61Pv8gX9bmekcazxmjZ7kzRjUrbg2QPgnJxA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/TYkhRx6gHNhpifSB14usgs_JGTnoeV_59iHT8rBZc87iT9V62CcAh_TZhcJVqO1Y6fKnfWGCGsuHSeqXfQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/3AM1SRtOK2ApkCCi7FLXjJ18oP7_U1D_g-yd8oJqJ4VYwvglE3nf8xonX7lF5u9F0Ldwk105UjRIkGFLYg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/3Q31mQbqNRK65vvJd3GDkUvvoO1L4wVwXg6vpQ3yWGr-XpPzvqW8fmi6eB4we-4_M7VvNIWfbCQvunAPPQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/p0DXP98IaCcWQ9b9nxSRuPu_cjrU-wcrreFDQQGad4iUdy1WlsZpMkT8eEO9pQ3tzFt3PV_zrxKl6MnowA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Q_GcXahVU63eA1IDePiP_ToSmtq0_5CAuqNvWO8sH-_ALkSyj_ZEMhA4ak34LDadyjiMvDJ644jSUwNcXw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/UGZkYzFg_FMiuyyb-D64aPfVolZOnM6--qK0i9e1QG5h3f7QD99Ei2E-0kwqDNBsKyl4ZJOopgFahmCWgw=w1024-no-tmp.jpg',
+        ],
+    },
+    {
         'title': '2012 ACM-ICPC World Finals',
         'pictures': [
             'https://lh3.googleusercontent.com/eELGnhS_4SSr6_ueTXJO8S9R3Wxy6FVmZ22tIlDS5Fa0QfCC5uwmtimiWWPh-Rq0fxgNhECSE--oDSF7rQ=w1024-no-tmp.jpg',
