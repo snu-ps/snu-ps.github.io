@@ -847,5 +847,16 @@ var albums = [
             'https://lh3.googleusercontent.com/rqcd0ET1X5xWTgHmgJVujqnjoqzfmgBo55TN_OrQ3qIQNkqCulITRrQihDKQ0Mul8KJmZhZRVGas5VZ46w=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/b7rf_PTOaVWZW2rrnuD_JHHvmXjimGZATWJoouTtR2J7KI7Wx5j9LTA0QeXSZ-CuvsryOi-iCHdwH4PzDg=w1024-no-tmp.jpg',
         ]
+    },
+    {
+        'title': '2009 ACM-ICPC World Finals',
+        'pictures': [
+            'https://lh3.googleusercontent.com/hiso2bHkIrLUxt-EibZCpF-aLNl4x8fWnSS1dNgyx4rCmYi2kzAZoUcANDujbLPrlWgEEzlQod2YilzDTQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/02rtC3NXgb6o3bqUnOywCFZ8cztM9FSbFY-Q3aylIr4JGKtu-eZV1fckX_6oGhv0hl8cwtveH2sWuGNQZg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/qkaXnin8o9mNs76kR67vT0BVP7VfO5hijdQSg2tDhXMXrytXnKuz_aa-bEorAQwpuPyUo9zaFNIhnNqQVA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/jrIYNKcj-VAuUSG2Qa1apTOrQTnUnGvCzWPpS11saOM0cs_3pK1J9cndH4EvBdr8RU3HnVEo-UK3xFbQCw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/6BbUJCXNzoLJhs2iuaQKvrtbYQt8LsIqKUFpppbGCQPMztalzzYYx-uZHE4fOLBoFJ9GR14_hvguvCU0LQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/7y2QuIToc2EeiWTeUPpoy5GrRr-qS21qwDnrN7q5987Pa9AbHhJ0farG4UdYLflnsiKA4qftdv7Jep5dDQ=w1024-no-tmp.jpg',
+        ]
     }
 ];
