@@ -58,3 +58,18 @@ nav ul li {
 nav ul li:last-child {
     border-right: 0;
 }
+
+
+/*** records.html ***/
+
+#records-2017, #records-2016, #records-2015, #records-2014, #records-2013 {
+    display: none;
+}
+
+#tab-2017:checked ~ #records-2017,
+#tab-2016:checked ~ #records-2016,
+#tab-2015:checked ~ #records-2015,
+#tab-2014:checked ~ #records-2014,
+#tab-2013:checked ~ #records-2013 {
+    display: block;
+}
