@@ -37,6 +37,9 @@ header {
 header p {
     margin: 4px auto;
 }
+header .logo-wrapper {
+    line-height: 0;
+}
 
 nav {
     text-align: center;
