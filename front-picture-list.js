@@ -829,6 +829,22 @@ var albums = [
         ],
     },
     {
+        'title': '제2회 전국 대학생 프로그래밍 대회 동아리 연합 대회',
+        'pictures': [
+            'https://lh3.googleusercontent.com/1HIXgvnxRG5nQaYQUwvEBrKNXlSIOl671r_oFtzGIA2SbEmB4J0HsF5oB7nvhrghaYMymzKCWo7UUYshYg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/87BboxqfiGBlZ5xvX735y8AEOAcfJrZZrztDfTrKjH4KkaeglrKaj5JW_GofqaaFFeR3VPSB_KU8mLO7Cg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/oqKtS9RDPqKPgkNYNJ1sQh6OB0S1Hfsx_qbfGIbPfA6TIaytfMDRXswVM-T5KIVbFd4kV-W_H_PQ8fR7ng=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/Sxg1aTu78na4Fjnz7NLc8HZHilm2qvUQ-BNlydeGAA7umthc3OzeyzP-e7_0uvabuRyX5gs-kM9nGM4POg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ufuOHSs5yoCU2hYf0yRId0rx193bMFszRnmvZsda8nwxgc07niIhrWU6qHyO9alkv3VtHxwCTn6BsQX8XQ=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/4KIMnHwF4ZrfRuWWojowZsmDbd57LQrpUrpgI_FCoc9YWzaxzlccSwohrP9refhVeJURenQ4bHpXD1Mr3A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/nFYi-od0BwzAG8Bk5m-M2c0TpA8w0V44vsiPR-jdx0nZOstaQTjPcIaTT4aHkLGQRV1ce5eWe5KJBidnMw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/_3oAcuBGr5VZEHbukfUIpO2v06zQcyXEceFMfA1FQSYPvTGhTZ4x1c8TBanHnEbxc-382w0mmdLwaZ2ZTw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/gEmdRe7hAL4PXUXU4bSyuoZoNQYyHGLaGY43LSoz58GBvWGtZE0pCmLQcnD-4acJYBd2WkU80BjH7wkBgw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/EqsH2hs0FDIZsKG5nqniXFL4E8nJdYRIhRLJfSgRdOEBhw7ZjAhV3kmBJmQq-mUNs3Ui7wG7lUPbfFTKng=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/ZJJTukG2EPz7u864sncLn72Qs83lM6BOJ4DfKzRHLn-dYF9cgfgUTBAg2NjS_wW3zGh7Op3N4rbClZXUQg=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2012 ACM-ICPC World Finals',
         'pictures': [
             'https://lh3.googleusercontent.com/eELGnhS_4SSr6_ueTXJO8S9R3Wxy6FVmZ22tIlDS5Fa0QfCC5uwmtimiWWPh-Rq0fxgNhECSE--oDSF7rQ=w1024-no-tmp.jpg',
