@@ -837,6 +837,21 @@ var albums = [
         ]
     },
     {
+        'title': '제1회 전국 대학생 프로그래밍 대회 동아리 연합 대회',
+        'pictures': [
+            'https://lh3.googleusercontent.com/XBKljHkmJwMNLIUpt7xRs2hn4W9goPC4exFu8RuFmFSRyFBUnU6C90J7adWJ5rAlLVFPnbfcl054mdL_QA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/eMu9gashf5-rIN49Rma-5XRI604UbLDK6pPYUFqwpcPrBVqFc4EU3kskF7De0FYfudbbheBo2D4FW8pTOA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/dzm1PKrwsQCdS-RLoKCxvrJfeIkmpZH79rfX8sNHoPmYmPtPyguPjgVDskpXQsC9QVwDZpcyTh3ZEXonow=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/bqxJlny2MrjCwsYkGEZwO9byeQRr5bk_7qsIW9viFEQx3PIjuh1uEUbMy3HLqyOQy0E_c18h-9HufRjuXg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/HyL-wf5nTX_bIe8gFAVZoWKj0ugBPV9F-da3eHRUt_80LwQv7SNs0dk_BXPn5COwzFOUEL0laRXIBsTl6A=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/2H1tFkmA1oTK5W72I9x3MHe0zGsuh_MoNFffc8PptCy57OJN616475BN-jq7eJ49aCUCT4HGE7Eatjd-tg=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/8GlysHTOlvrnTBwjVWUgMoTGNA4B7Xpt8_EdcFngyvTK0eerM6Poz3Qzy0AlZUmg9rtZDkd3zWMClQF0aw=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/MgZepQY23cVFtjbIClohnfPiLEUXGXkT4Y2iYwjDIWAmy23UFNdNVnKmZVt3QL4OdF7HMu6oUtcKVSGPWA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/WmCm9uaAeoOukchyVBd9OyEC_Nfa7HZSPWZDN46EW3wKRN--8_hhuIbA6EaVCgaWKQx9JjxnDHT-brMydA=w1024-no-tmp.jpg',
+            'https://lh3.googleusercontent.com/gFCSJxDEZTmD4l2r5vOPzYVgAf4uZsSRUT8NQmyBVHQgv9n5oFgek62mg3MvVZ6K06wsi9OxjChaBasqIw=w1024-no-tmp.jpg',
+        ]
+    },
+    {
         'title': '2011 ACM-ICPC World Finals',
         'pictures': [
             'https://lh3.googleusercontent.com/xDzlp6OJslwsbZLpgLHfGi_wfUMMnjjOyimkHXRQUZEz7dHNT1qtZVaVSu2Mq042SP0t08-CMPh3GR0e8g=w1024-no-tmp.jpg',
