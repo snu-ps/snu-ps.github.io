@@ -14,7 +14,7 @@ var albums = [
         ]
     },
     {
-        'title': '2017 ACM-ICPC 대전 리저널 인터넷 예선',
+        'title': '2017 ACM-ICPC Daejeon Regional 인터넷 예선',
         'pictures': [
             'https://lh3.googleusercontent.com/zQtBNjan52oCcdqEZqb6hy5YFlH7HeVsegy2iHYbPNKPjnAW3yS0wJnx_MDlgtvAPBnH5sSztpQ-3PRZ3g=w1024-no-tmp.jpg',
             'https://lh3.googleusercontent.com/OkFMauOzCq8590tZbTtabuHIMKAH9iihAA_aCvsvHePxwn74Dzv9fRyHR46HqmW7sYthQhCy5CGufJRR=w1024-no-tmp.jpg',
