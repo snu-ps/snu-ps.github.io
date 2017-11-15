@@ -8,8 +8,9 @@ a:visited {
     color: #07a;
 }
 
-* {
+html {
     font-family: 'Spoqa Han Sans', 'Sans-serif';
+    font-size: 18px;
 }
 
 h4 {
@@ -27,7 +28,6 @@ body {
     max-width: 670px;
     line-height: 1.6;
     color: #444;
-    font-size: 18px;
     padding: 0;
 }
 
@@ -95,10 +95,11 @@ table.prize-table tr {
 table.prize-table th, table.prize-table td {
     border: 1px solid black;
     padding: 2px 10px;
+    font-size: 0.9rem;
 }
 
 table.prize-table th:first-child,
 table.prize-table td:first-child {
-    width: 12%;
+    width: 10%;
     text-align: center;
 }
