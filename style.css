@@ -78,6 +78,6 @@ nav ul li:last-child {
 #tab-2013:checked ~ #records-2013,
 #tab-2012:checked ~ #records-2012,
 #tab-2011:checked ~ #records-2011,
-#tab-2010:checked ~ #records-2010, {
+#tab-2010:checked ~ #records-2010 {
     display: block;
 }
