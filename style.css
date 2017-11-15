@@ -81,3 +81,24 @@ nav ul li:last-child {
 #tab-2010:checked ~ #records-2010 {
     display: block;
 }
+
+table.prize-table {
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0 auto;
+}
+
+table.prize-table tr {
+    border: 1px solid black;
+}
+
+table.prize-table th, table.prize-table td {
+    border: 1px solid black;
+    padding: 2px 10px;
+}
+
+table.prize-table th:first-child,
+table.prize-table td:first-child {
+    width: 12%;
+    text-align: center;
+}
