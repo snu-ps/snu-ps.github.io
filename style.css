@@ -24,11 +24,11 @@ ul {
 
 body {
     margin: 10px auto;
-    max-width: 720px;
+    max-width: 670px;
     line-height: 1.6;
     color: #444;
     font-size: 18px;
-    padding: 0 15px;
+    padding: 0;
 }
 
 header {
@@ -59,6 +59,10 @@ nav ul li:last-child {
     border-right: 0;
 }
 
+#content {
+    padding: 0 15px;
+    padding-bottom: 50px;
+}
 
 /*** records.html ***/
 
