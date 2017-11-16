@@ -67,7 +67,8 @@ nav ul li:last-child {
 /*** records.html ***/
 
 #records-2017, #records-2016, #records-2015, #records-2014, #records-2013,
-#records-2012, #records-2011, #records-2010, #records-2009, #records-2008 {
+#records-2012, #records-2011, #records-2010, #records-2009, #records-2008,
+#records-2007, #records-2006, #records-2005 {
     display: none;
 }
 
@@ -80,7 +81,10 @@ nav ul li:last-child {
 #tab-2011:checked ~ #records-2011,
 #tab-2010:checked ~ #records-2010,
 #tab-2009:checked ~ #records-2009,
-#tab-2008:checked ~ #records-2008 {
+#tab-2008:checked ~ #records-2008,
+#tab-2007:checked ~ #records-2007,
+#tab-2006:checked ~ #records-2006,
+#tab-2005:checked ~ #records-2005 {
     display: block;
 }
 
