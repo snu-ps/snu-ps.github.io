@@ -109,3 +109,13 @@ table.prize-table td:first-child {
     width: 10%;
     text-align: center;
 }
+
+/*** apply.html ***/
+
+#apply-form-iframe {
+    width: 95%;
+    height: 600px;
+    margin: 30px auto;
+    border: 0;
+    display: block;
+}
