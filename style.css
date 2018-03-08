@@ -13,9 +13,18 @@ html {
     font-size: 18px;
 }
 
+h2, h3 {
+    margin-top: 16px;
+    margin-bottom: 5px;
+}
+
 h4 {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+p {
+    margin: 5px auto;
 }
 
 ul {
