@@ -85,12 +85,11 @@ nav ul li:last-child {
 
 /*** records.html ***/
 
-#records-2017, #records-2016, #records-2015, #records-2014, #records-2013,
-#records-2012, #records-2011, #records-2010, #records-2009, #records-2008,
-#records-2007, #records-2006, #records-2005 {
+[id^='records-'] {
     display: none;
 }
 
+#tab-2018:checked ~ #records-2018,
 #tab-2017:checked ~ #records-2017,
 #tab-2016:checked ~ #records-2016,
 #tab-2015:checked ~ #records-2015,
