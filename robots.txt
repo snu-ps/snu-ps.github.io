@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+Allow: /$
+Allow: /intro.html
+Allow: /records.html
+Allow: /etc.html
