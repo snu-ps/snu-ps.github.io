@@ -1,6 +1,4 @@
-User-Agent: *
-Disallow: /
-Allow: /$
-Allow: /intro.html
-Allow: /records.html
-Allow: /etc.html
+User-agent: *
+Disallow:
+
+Sitemap: http://0.0.0.0:8080/sitemap.xml
