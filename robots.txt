@@ -1,4 +1,2 @@
 User-agent: *
 Disallow:
-
-Sitemap: http://0.0.0.0:8080/sitemap.xml
