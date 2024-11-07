@@ -82,17 +82,20 @@ jobs:
     needs: [build, update-calendar]
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
       - name: Download build artifacts 📦
         uses: actions/download-artifact@v4
         with:
           name: Build Artifacts
+          path: _site
       - name: Download calendar JSON 📁
         uses: actions/download-artifact@v4
         with:
           name: Calendar JSON
-          path: assets/json/calendar.json
+          path: _site/assets/json/calendar.json
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: .
+          folder: _site
           branch: gh-pages
