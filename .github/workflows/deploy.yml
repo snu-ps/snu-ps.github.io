@@ -10,13 +10,17 @@ on:
       - master
       - main
   workflow_dispatch:
+  schedule:
+    # Run every day 05:00 UTC+9
+    - cron: "0 20 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  deploy:
-    # available images: https://github.com/actions/runner-images#available-images
+  build:
+    # if: github.event_name != 'schedule'
+    # TODO: we have to run this job when artifact is expired
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -38,9 +42,54 @@ jobs:
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
-      - name: Deploy 🚀
+      - name: Upload build artifacts 🎁
         if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Build Artifacts
+          path: _site
+          overwrite: true
+          retention-days: 1
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+      - name: Install dependencies 📦
+        run: |
+          pip3 install --upgrade argparse oauth2client google-api-python-client
+      - name: Call google calendar API and save result 📅
+        run: |
+          python3 bin/call-google-calendar-api.py \
+            --key ${{ secrets.GOOGLE_CALENDAR_API_KEY }} \
+            --output calendar.json \
+            --calendars \
+              iu1iul1u3n8ic3s78f4df15u4o@group.calendar.google.com \
+              c_kmvgs6pqta7man27ikg08ffrhc@group.calendar.google.com
+      - name: Upload calendar JSON 📁
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Calendar JSON
+          path: calendar.json
+          overwrite: true
+          retention-days: 1
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: [build, update-calendar]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download build artifacts 📦
+        uses: actions/download-artifact@v4
+        with:
+          name: Build Artifacts
+      - name: Download calendar JSON 📁
+        uses: actions/download-artifact@v4
+        with:
+          name: Calendar JSON
+          path: assets/json/calendar.json
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: _site
-          branch: release
+          folder: .
+          branch: gh-pages
