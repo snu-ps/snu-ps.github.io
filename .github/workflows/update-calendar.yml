@@ -20,8 +20,10 @@ jobs:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout release branch # TODO: Change to release branch
+      - name: Checkout release branch
         uses: actions/checkout@v4
+        with:
+          ref: master # TODO: Change to release branch
       - name: Install dependencies
         run: |
           pip3 install --upgrade argparse oauth2client google-api-python-client
