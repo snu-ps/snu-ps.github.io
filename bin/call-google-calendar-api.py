@@ -26,19 +26,27 @@ def get_calendar_events(calendar_id):
                 timeZone='Asia/Seoul',
                 pageToken=page_token
             ).execute()
-
             calendar_events.extend(calendar_list.get("items"))
             page_token = calendar_list.get("nextPageToken")
             if not page_token:
                 break
-
     except client.AccessTokenRefreshError:
         print("The credentials have been revoked or expired, please re-run the application to re-authorize.")
-
+    except Exception as e:
+        print(f"An error occurred: {e}")
     return calendar_events
 
 def process_event(event):
-    return event
+    processed = {}
+    try:
+        processed['id'] = event['id']
+        processed['title'] = event['summary']
+        processed['start'] = event['start'].get('dateTime', event['start'].get('date'))
+        processed['end'] = event['end'].get('dateTime', event['end'].get('date'))
+        if 'location' in event: processed['url'] = event['location']
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    return processed
 
 events = []
 for calendar in args.calendars:
