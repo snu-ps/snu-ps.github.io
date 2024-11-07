@@ -28,8 +28,47 @@ images:
 </swiper-container>
 
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@latest/index.global.js'></script>
-<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@latest/index.global.min.js'></script>
-<script src='assets/js/front.js'></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  let calendarEl = document.getElementById('calendar-wide');
+  let calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: 'dayGridTwoWeek',
+    headerToolbar: {
+      left: 'oneWeekBtn,twoWeekBtn,oneMonthBtn',
+      center: 'title',
+      right: 'prev,next today'
+    },
+    customButtons: {
+      oneWeekBtn: { text: '주', click: function() { calendar.changeView('listWeek'); } },
+      twoWeekBtn: { text: '2주', click: function() { calendar.changeView('dayGridTwoWeek'); } },
+      oneMonthBtn: { text: '월', click: function() { calendar.changeView('dayGridMonth'); } }
+    },
+    views: { dayGridTwoWeek: { type: 'dayGrid', duration: { weeks: 2 } } },
+    events: 'assets/json/calendar.json'
+  });
+  calendar.render();
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  let calendarEl = document.getElementById('calendar-narrow');
+  let calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: 'listWeek',
+    headerToolbar: {
+      left: 'oneDayBtn,oneWeekBtn',
+      right: 'prev,next today'
+    },
+    customButtons: {
+      oneDayBtn: { text: '일', click: function() { calendar.changeView('listDay'); } },
+      oneWeekBtn: { text: '주', click: function() { calendar.changeView('listWeek'); } },
+    },
+    events: 'assets/json/calendar.json'
+  });
+  calendar.render();
+});
+</script>
 
 <span style="display:block; height: 30px;"></span>
 <div id='calendar-wide'></div><div id='calendar-narrow'></div>
