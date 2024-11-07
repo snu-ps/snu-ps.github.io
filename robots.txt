@@ -1,6 +1,7 @@
-User-Agent: *
-Disallow: /
-Allow: /$
-Allow: /intro.html
-Allow: /records.html
-Allow: /etc.html
+---
+permalink: /robots.txt
+---
+User-agent: *
+Disallow:
+
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
