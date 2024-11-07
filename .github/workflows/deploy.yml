@@ -4,11 +4,9 @@ on:
   push:
     branches:
       - master
-      - main
   pull_request:
     branches:
       - master
-      - main
   workflow_dispatch:
   schedule:
     # Run every day 05:00 UTC+9
@@ -21,6 +19,7 @@ permissions:
 
 jobs:
   build:
+    # If not a daily cron job
     if: github.event.schedule != '0 20 * * *'
     runs-on: ubuntu-latest
     steps:
@@ -44,6 +43,7 @@ jobs:
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Upload build artifacts 🎁
+        # Only upload artifacts when not a pull request
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4
         with:
@@ -68,6 +68,7 @@ jobs:
               iu1iul1u3n8ic3s78f4df15u4o@group.calendar.google.com \
               c_kmvgs6pqta7man27ikg08ffrhc@group.calendar.google.com
       - name: Upload calendar JSON 📁
+        # Only upload artifacts when not a pull request
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4
         with:
@@ -76,6 +77,7 @@ jobs:
           overwrite: true
           retention-days: 1
   deploy:
+    # Only deploy when not a pull request
     if: github.event_name != 'pull_request'
     needs: [build, update-calendar]
     runs-on: ubuntu-latest
