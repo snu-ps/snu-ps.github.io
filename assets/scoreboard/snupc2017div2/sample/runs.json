@@ -1,0 +1,2354 @@
+{
+    "runs": [
+        {
+            "id": 1,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 4,
+            "team": 51
+        },
+        {
+            "id": 2,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 5,
+            "team": 50
+        },
+        {
+            "id": 3,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 6,
+            "team": 6
+        },
+        {
+            "id": 4,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 6,
+            "team": 38
+        },
+        {
+            "id": 5,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 6,
+            "team": 8
+        },
+        {
+            "id": 6,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 7,
+            "team": 37
+        },
+        {
+            "id": 7,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 7,
+            "team": 51
+        },
+        {
+            "id": 8,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 7,
+            "team": 21
+        },
+        {
+            "id": 9,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 8,
+            "team": 58
+        },
+        {
+            "id": 11,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 8,
+            "team": 20
+        },
+        {
+            "id": 12,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 8,
+            "team": 37
+        },
+        {
+            "id": 13,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 8,
+            "team": 58
+        },
+        {
+            "id": 14,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 8,
+            "team": 53
+        },
+        {
+            "id": 15,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 8,
+            "team": 21
+        },
+        {
+            "id": 16,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 9,
+            "team": 30
+        },
+        {
+            "id": 17,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 9,
+            "team": 6
+        },
+        {
+            "id": 18,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 9,
+            "team": 58
+        },
+        {
+            "id": 19,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 9,
+            "team": 50
+        },
+        {
+            "id": 20,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 9,
+            "team": 49
+        },
+        {
+            "id": 21,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 10,
+            "team": 8
+        },
+        {
+            "id": 22,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 10,
+            "team": 61
+        },
+        {
+            "id": 23,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 10,
+            "team": 49
+        },
+        {
+            "id": 24,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 10,
+            "team": 51
+        },
+        {
+            "id": 25,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 11,
+            "team": 38
+        },
+        {
+            "id": 26,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 11,
+            "team": 6
+        },
+        {
+            "id": 27,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 12,
+            "team": 60
+        },
+        {
+            "id": 28,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 12,
+            "team": 61
+        },
+        {
+            "id": 29,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 13,
+            "team": 47
+        },
+        {
+            "id": 30,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 13,
+            "team": 58
+        },
+        {
+            "id": 31,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 13,
+            "team": 33
+        },
+        {
+            "id": 32,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 13,
+            "team": 50
+        },
+        {
+            "id": 33,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 14,
+            "team": 37
+        },
+        {
+            "id": 34,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 14,
+            "team": 30
+        },
+        {
+            "id": 35,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 15,
+            "team": 53
+        },
+        {
+            "id": 36,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 15,
+            "team": 33
+        },
+        {
+            "id": 37,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 16,
+            "team": 61
+        },
+        {
+            "id": 38,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 16,
+            "team": 20
+        },
+        {
+            "id": 39,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 17,
+            "team": 38
+        },
+        {
+            "id": 40,
+            "problem": 0,
+            "result": "No - Run-time Error",
+            "submissionTime": 17,
+            "team": 45
+        },
+        {
+            "id": 41,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 17,
+            "team": 32
+        },
+        {
+            "id": 42,
+            "problem": 0,
+            "result": "No - Other",
+            "submissionTime": 18,
+            "team": 53
+        },
+        {
+            "id": 43,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 18,
+            "team": 33
+        },
+        {
+            "id": 44,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 19,
+            "team": 60
+        },
+        {
+            "id": 45,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 20,
+            "team": 49
+        },
+        {
+            "id": 46,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 20,
+            "team": 53
+        },
+        {
+            "id": 47,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 21,
+            "team": 57
+        },
+        {
+            "id": 48,
+            "problem": 0,
+            "result": "No - Run-time Error",
+            "submissionTime": 21,
+            "team": 45
+        },
+        {
+            "id": 49,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 21,
+            "team": 37
+        },
+        {
+            "id": 50,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 22,
+            "team": 49
+        },
+        {
+            "id": 51,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 22,
+            "team": 61
+        },
+        {
+            "id": 52,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 22,
+            "team": 38
+        },
+        {
+            "id": 53,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 22,
+            "team": 25
+        },
+        {
+            "id": 54,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 23,
+            "team": 51
+        },
+        {
+            "id": 55,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 24,
+            "team": 25
+        },
+        {
+            "id": 56,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 24,
+            "team": 8
+        },
+        {
+            "id": 57,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 24,
+            "team": 47
+        },
+        {
+            "id": 58,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 24,
+            "team": 32
+        },
+        {
+            "id": 59,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 25,
+            "team": 33
+        },
+        {
+            "id": 60,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 25,
+            "team": 38
+        },
+        {
+            "id": 61,
+            "problem": 0,
+            "result": "No - Run-time Error",
+            "submissionTime": 26,
+            "team": 45
+        },
+        {
+            "id": 62,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 28,
+            "team": 6
+        },
+        {
+            "id": 63,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 29,
+            "team": 55
+        },
+        {
+            "id": 64,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 29,
+            "team": 32
+        },
+        {
+            "id": 65,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 29,
+            "team": 6
+        },
+        {
+            "id": 66,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 31,
+            "team": 57
+        },
+        {
+            "id": 67,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 31,
+            "team": 55
+        },
+        {
+            "id": 68,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 32,
+            "team": 47
+        },
+        {
+            "id": 69,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 33,
+            "team": 45
+        },
+        {
+            "id": 70,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 33,
+            "team": 32
+        },
+        {
+            "id": 71,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 34,
+            "team": 20
+        },
+        {
+            "id": 72,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 35,
+            "team": 32
+        },
+        {
+            "id": 73,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 36,
+            "team": 50
+        },
+        {
+            "id": 74,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 36,
+            "team": 61
+        },
+        {
+            "id": 75,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 38,
+            "team": 25
+        },
+        {
+            "id": 76,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 38,
+            "team": 32
+        },
+        {
+            "id": 77,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 40,
+            "team": 45
+        },
+        {
+            "id": 78,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 42,
+            "team": 16
+        },
+        {
+            "id": 79,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 44,
+            "team": 60
+        },
+        {
+            "id": 80,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 44,
+            "team": 51
+        },
+        {
+            "id": 81,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 45,
+            "team": 6
+        },
+        {
+            "id": 82,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 47,
+            "team": 58
+        },
+        {
+            "id": 83,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 48,
+            "team": 16
+        },
+        {
+            "id": 84,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 48,
+            "team": 59
+        },
+        {
+            "id": 85,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 50,
+            "team": 33
+        },
+        {
+            "id": 86,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 51,
+            "team": 32
+        },
+        {
+            "id": 87,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 51,
+            "team": 61
+        },
+        {
+            "id": 88,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 54,
+            "team": 59
+        },
+        {
+            "id": 89,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 55,
+            "team": 60
+        },
+        {
+            "id": 90,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 56,
+            "team": 55
+        },
+        {
+            "id": 91,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 57,
+            "team": 53
+        },
+        {
+            "id": 92,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 57,
+            "team": 30
+        },
+        {
+            "id": 93,
+            "problem": 4,
+            "result": "Yes",
+            "submissionTime": 57,
+            "team": 51
+        },
+        {
+            "id": 94,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 58,
+            "team": 55
+        },
+        {
+            "id": 95,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 59,
+            "team": 53
+        },
+        {
+            "id": 96,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 60,
+            "team": 20
+        },
+        {
+            "id": 97,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 60,
+            "team": 8
+        },
+        {
+            "id": 98,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 62,
+            "team": 61
+        },
+        {
+            "id": 99,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 63,
+            "team": 58
+        },
+        {
+            "id": 100,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 64,
+            "team": 43
+        },
+        {
+            "id": 102,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 64,
+            "team": 53
+        },
+        {
+            "id": 104,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 67,
+            "team": 20
+        },
+        {
+            "id": 105,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 68,
+            "team": 8
+        },
+        {
+            "id": 106,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 68,
+            "team": 38
+        },
+        {
+            "id": 107,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 69,
+            "team": 30
+        },
+        {
+            "id": 108,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 69,
+            "team": 59
+        },
+        {
+            "id": 109,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 70,
+            "team": 51
+        },
+        {
+            "id": 110,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 71,
+            "team": 58
+        },
+        {
+            "id": 111,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 72,
+            "team": 20
+        },
+        {
+            "id": 112,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 72,
+            "team": 30
+        },
+        {
+            "id": 113,
+            "problem": 4,
+            "result": "Yes",
+            "submissionTime": 73,
+            "team": 50
+        },
+        {
+            "id": 114,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 74,
+            "team": 30
+        },
+        {
+            "id": 115,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 74,
+            "team": 6
+        },
+        {
+            "id": 116,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 75,
+            "team": 58
+        },
+        {
+            "id": 117,
+            "problem": 4,
+            "result": "Yes",
+            "submissionTime": 75,
+            "team": 61
+        },
+        {
+            "id": 118,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 76,
+            "team": 49
+        },
+        {
+            "id": 119,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 76,
+            "team": 44
+        },
+        {
+            "id": 120,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 77,
+            "team": 33
+        },
+        {
+            "id": 121,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 78,
+            "team": 30
+        },
+        {
+            "id": 122,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 78,
+            "team": 59
+        },
+        {
+            "id": 123,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 79,
+            "team": 38
+        },
+        {
+            "id": 124,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 80,
+            "team": 20
+        },
+        {
+            "id": 125,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 81,
+            "team": 49
+        },
+        {
+            "id": 126,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 81,
+            "team": 50
+        },
+        {
+            "id": 127,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 82,
+            "team": 38
+        },
+        {
+            "id": 128,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 84,
+            "team": 30
+        },
+        {
+            "id": 129,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 85,
+            "team": 49
+        },
+        {
+            "id": 130,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 86,
+            "team": 55
+        },
+        {
+            "id": 131,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 86,
+            "team": 38
+        },
+        {
+            "id": 132,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 86,
+            "team": 59
+        },
+        {
+            "id": 133,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 86,
+            "team": 53
+        },
+        {
+            "id": 134,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 86,
+            "team": 38
+        },
+        {
+            "id": 135,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 89,
+            "team": 50
+        },
+        {
+            "id": 136,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 89,
+            "team": 16
+        },
+        {
+            "id": 137,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 90,
+            "team": 59
+        },
+        {
+            "id": 138,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 91,
+            "team": 32
+        },
+        {
+            "id": 139,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 94,
+            "team": 60
+        },
+        {
+            "id": 140,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 94,
+            "team": 47
+        },
+        {
+            "id": 141,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 95,
+            "team": 58
+        },
+        {
+            "id": 142,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 95,
+            "team": 37
+        },
+        {
+            "id": 143,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 96,
+            "team": 45
+        },
+        {
+            "id": 144,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 96,
+            "team": 58
+        },
+        {
+            "id": 145,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 97,
+            "team": 47
+        },
+        {
+            "id": 146,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 97,
+            "team": 38
+        },
+        {
+            "id": 147,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 98,
+            "team": 45
+        },
+        {
+            "id": 148,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 99,
+            "team": 44
+        },
+        {
+            "id": 149,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 99,
+            "team": 21
+        },
+        {
+            "id": 150,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 99,
+            "team": 32
+        },
+        {
+            "id": 151,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 100,
+            "team": 33
+        },
+        {
+            "id": 152,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 100,
+            "team": 37
+        },
+        {
+            "id": 153,
+            "problem": 7,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 100,
+            "team": 20
+        },
+        {
+            "id": 154,
+            "problem": 4,
+            "result": "Yes",
+            "submissionTime": 100,
+            "team": 6
+        },
+        {
+            "id": 155,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 100,
+            "team": 25
+        },
+        {
+            "id": 156,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 101,
+            "team": 45
+        },
+        {
+            "id": 157,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 101,
+            "team": 43
+        },
+        {
+            "id": 158,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 102,
+            "team": 21
+        },
+        {
+            "id": 159,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 102,
+            "team": 49
+        },
+        {
+            "id": 160,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 102,
+            "team": 57
+        },
+        {
+            "id": 161,
+            "problem": 7,
+            "result": "Yes",
+            "submissionTime": 103,
+            "team": 61
+        },
+        {
+            "id": 162,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 104,
+            "team": 8
+        },
+        {
+            "id": 163,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 104,
+            "team": 38
+        },
+        {
+            "id": 164,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 104,
+            "team": 43
+        },
+        {
+            "id": 165,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 107,
+            "team": 43
+        },
+        {
+            "id": 166,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 107,
+            "team": 60
+        },
+        {
+            "id": 167,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 108,
+            "team": 57
+        },
+        {
+            "id": 168,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 109,
+            "team": 8
+        },
+        {
+            "id": 169,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 109,
+            "team": 38
+        },
+        {
+            "id": 170,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 110,
+            "team": 49
+        },
+        {
+            "id": 172,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 111,
+            "team": 32
+        },
+        {
+            "id": 173,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 112,
+            "team": 57
+        },
+        {
+            "id": 174,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 113,
+            "team": 43
+        },
+        {
+            "id": 175,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 115,
+            "team": 50
+        },
+        {
+            "id": 176,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 115,
+            "team": 38
+        },
+        {
+            "id": 177,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 116,
+            "team": 44
+        },
+        {
+            "id": 178,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 118,
+            "team": 38
+        },
+        {
+            "id": 179,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 119,
+            "team": 45
+        },
+        {
+            "id": 180,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 119,
+            "team": 25
+        },
+        {
+            "id": 181,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 120,
+            "team": 57
+        },
+        {
+            "id": 182,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 120,
+            "team": 30
+        },
+        {
+            "id": 183,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 121,
+            "team": 43
+        },
+        {
+            "id": 184,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 123,
+            "team": 49
+        },
+        {
+            "id": 185,
+            "problem": 7,
+            "result": "Yes",
+            "submissionTime": 124,
+            "team": 50
+        },
+        {
+            "id": 186,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 126,
+            "team": 37
+        },
+        {
+            "id": 187,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 126,
+            "team": 58
+        },
+        {
+            "id": 188,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 128,
+            "team": 53
+        },
+        {
+            "id": 189,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 128,
+            "team": 45
+        },
+        {
+            "id": 190,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 129,
+            "team": 45
+        },
+        {
+            "id": 191,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 129,
+            "team": 47
+        },
+        {
+            "id": 192,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 129,
+            "team": 44
+        },
+        {
+            "id": 194,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 131,
+            "team": 44
+        },
+        {
+            "id": 195,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 132,
+            "team": 30
+        },
+        {
+            "id": 196,
+            "problem": 5,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 132,
+            "team": 51
+        },
+        {
+            "id": 197,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 134,
+            "team": 40
+        },
+        {
+            "id": 198,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 135,
+            "team": 30
+        },
+        {
+            "id": 199,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 135,
+            "team": 32
+        },
+        {
+            "id": 200,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 135,
+            "team": 16
+        },
+        {
+            "id": 201,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 136,
+            "team": 37
+        },
+        {
+            "id": 202,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 137,
+            "team": 47
+        },
+        {
+            "id": 203,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 137,
+            "team": 8
+        },
+        {
+            "id": 204,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 139,
+            "team": 45
+        },
+        {
+            "id": 205,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 139,
+            "team": 50
+        },
+        {
+            "id": 206,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 140,
+            "team": 53
+        },
+        {
+            "id": 207,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 141,
+            "team": 47
+        },
+        {
+            "id": 208,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 142,
+            "team": 40
+        },
+        {
+            "id": 209,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 142,
+            "team": 37
+        },
+        {
+            "id": 210,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 145,
+            "team": 40
+        },
+        {
+            "id": 211,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 145,
+            "team": 45
+        },
+        {
+            "id": 212,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 145,
+            "team": 32
+        },
+        {
+            "id": 213,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 146,
+            "team": 58
+        },
+        {
+            "id": 214,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 146,
+            "team": 57
+        },
+        {
+            "id": 215,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 147,
+            "team": 60
+        },
+        {
+            "id": 216,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 148,
+            "team": 33
+        },
+        {
+            "id": 217,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 148,
+            "team": 60
+        },
+        {
+            "id": 219,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 150,
+            "team": 40
+        },
+        {
+            "id": 220,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 150,
+            "team": 6
+        },
+        {
+            "id": 221,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 150,
+            "team": 21
+        },
+        {
+            "id": 222,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 152,
+            "team": 45
+        },
+        {
+            "id": 223,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 152,
+            "team": 32
+        },
+        {
+            "id": 224,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 152,
+            "team": 45
+        },
+        {
+            "id": 225,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 152,
+            "team": 16
+        },
+        {
+            "id": 226,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 155,
+            "team": 6
+        },
+        {
+            "id": 227,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 155,
+            "team": 45
+        },
+        {
+            "id": 228,
+            "problem": 1,
+            "result": "Yes",
+            "submissionTime": 156,
+            "team": 16
+        },
+        {
+            "id": 230,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 157,
+            "team": 32
+        },
+        {
+            "id": 232,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 158,
+            "team": 38
+        },
+        {
+            "id": 233,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 159,
+            "team": 30
+        },
+        {
+            "id": 235,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 160,
+            "team": 6
+        },
+        {
+            "id": 236,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 161,
+            "team": 59
+        },
+        {
+            "id": 237,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 162,
+            "team": 45
+        },
+        {
+            "id": 238,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 165,
+            "team": 32
+        },
+        {
+            "id": 239,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 167,
+            "team": 38
+        },
+        {
+            "id": 240,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 168,
+            "team": 21
+        },
+        {
+            "id": 241,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 168,
+            "team": 53
+        },
+        {
+            "id": 242,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 168,
+            "team": 40
+        },
+        {
+            "id": 243,
+            "problem": 7,
+            "result": "Yes",
+            "submissionTime": 169,
+            "team": 58
+        },
+        {
+            "id": 244,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 169,
+            "team": 60
+        },
+        {
+            "id": 245,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 170,
+            "team": 16
+        },
+        {
+            "id": 246,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 172,
+            "team": 59
+        },
+        {
+            "id": 247,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 173,
+            "team": 53
+        },
+        {
+            "id": 248,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 173,
+            "team": 20
+        },
+        {
+            "id": 249,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 175,
+            "team": 6
+        },
+        {
+            "id": 250,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 176,
+            "team": 32
+        },
+        {
+            "id": 251,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 177,
+            "team": 25
+        },
+        {
+            "id": 252,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 177,
+            "team": 49
+        },
+        {
+            "id": 253,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 177,
+            "team": 30
+        },
+        {
+            "id": 254,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 178,
+            "team": 59
+        },
+        {
+            "id": 255,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 178,
+            "team": 40
+        },
+        {
+            "id": 256,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 179,
+            "team": 49
+        },
+        {
+            "id": 257,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 179,
+            "team": 59
+        },
+        {
+            "id": 258,
+            "problem": 1,
+            "result": "No - Wrong Answer",
+            "submissionTime": 180,
+            "team": 32
+        },
+        {
+            "id": 259,
+            "problem": 7,
+            "result": "Yes",
+            "submissionTime": 183,
+            "team": 20
+        },
+        {
+            "id": 260,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 184,
+            "team": 30
+        },
+        {
+            "id": 261,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 185,
+            "team": 32
+        },
+        {
+            "id": 262,
+            "problem": 0,
+            "result": "Yes",
+            "submissionTime": 185,
+            "team": 16
+        },
+        {
+            "id": 263,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 185,
+            "team": 25
+        },
+        {
+            "id": 264,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 186,
+            "team": 33
+        },
+        {
+            "id": 265,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 187,
+            "team": 37
+        },
+        {
+            "id": 266,
+            "problem": 7,
+            "result": "Yes",
+            "submissionTime": 188,
+            "team": 51
+        },
+        {
+            "id": 267,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 188,
+            "team": 40
+        },
+        {
+            "id": 268,
+            "problem": 4,
+            "result": "Yes",
+            "submissionTime": 190,
+            "team": 20
+        },
+        {
+            "id": 269,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 190,
+            "team": 43
+        },
+        {
+            "id": 270,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 192,
+            "team": 49
+        },
+        {
+            "id": 271,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 192,
+            "team": 25
+        },
+        {
+            "id": 272,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 192,
+            "team": 30
+        },
+        {
+            "id": 273,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 194,
+            "team": 32
+        },
+        {
+            "id": 274,
+            "problem": 2,
+            "result": "No - Wrong Answer",
+            "submissionTime": 194,
+            "team": 8
+        },
+        {
+            "id": 275,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 195,
+            "team": 8
+        },
+        {
+            "id": 276,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 196,
+            "team": 16
+        },
+        {
+            "id": 277,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 196,
+            "team": 30
+        },
+        {
+            "id": 278,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 197,
+            "team": 49
+        },
+        {
+            "id": 279,
+            "problem": 4,
+            "result": "No - Wrong Answer",
+            "submissionTime": 197,
+            "team": 45
+        },
+        {
+            "id": 281,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 198,
+            "team": 38
+        },
+        {
+            "id": 283,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 199,
+            "team": 20
+        },
+        {
+            "id": 284,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 199,
+            "team": 8
+        },
+        {
+            "id": 285,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 202,
+            "team": 53
+        },
+        {
+            "id": 286,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 202,
+            "team": 33
+        },
+        {
+            "id": 287,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 203,
+            "team": 8
+        },
+        {
+            "id": 288,
+            "problem": 4,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 205,
+            "team": 45
+        },
+        {
+            "id": 289,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 205,
+            "team": 21
+        },
+        {
+            "id": 290,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 206,
+            "team": 49
+        },
+        {
+            "id": 291,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 206,
+            "team": 8
+        },
+        {
+            "id": 292,
+            "problem": 4,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 209,
+            "team": 45
+        },
+        {
+            "id": 293,
+            "problem": 2,
+            "result": "Yes",
+            "submissionTime": 209,
+            "team": 40
+        },
+        {
+            "id": 294,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 211,
+            "team": 59
+        },
+        {
+            "id": 295,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 211,
+            "team": 49
+        },
+        {
+            "id": 296,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 212,
+            "team": 25
+        },
+        {
+            "id": 297,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 212,
+            "team": 59
+        },
+        {
+            "id": 298,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 213,
+            "team": 21
+        },
+        {
+            "id": 299,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 216,
+            "team": 58
+        },
+        {
+            "id": 300,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 217,
+            "team": 49
+        },
+        {
+            "id": 301,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 217,
+            "team": 33
+        },
+        {
+            "id": 302,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 218,
+            "team": 25
+        },
+        {
+            "id": 303,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 219,
+            "team": 40
+        },
+        {
+            "id": 304,
+            "problem": 4,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 221,
+            "team": 45
+        },
+        {
+            "id": 305,
+            "problem": 8,
+            "result": "Yes",
+            "submissionTime": 222,
+            "team": 25
+        },
+        {
+            "id": 306,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 222,
+            "team": 50
+        },
+        {
+            "id": 307,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 223,
+            "team": 58
+        },
+        {
+            "id": 308,
+            "problem": 6,
+            "result": "No - Run-time Error",
+            "submissionTime": 224,
+            "team": 44
+        },
+        {
+            "id": 309,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 225,
+            "team": 32
+        },
+        {
+            "id": 310,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 225,
+            "team": 37
+        },
+        {
+            "id": 311,
+            "problem": 6,
+            "result": "No - Run-time Error",
+            "submissionTime": 225,
+            "team": 44
+        },
+        {
+            "id": 312,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 226,
+            "team": 43
+        },
+        {
+            "id": 313,
+            "problem": 3,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 227,
+            "team": 32
+        },
+        {
+            "id": 314,
+            "problem": 6,
+            "result": "No - Run-time Error",
+            "submissionTime": 227,
+            "team": 44
+        },
+        {
+            "id": 316,
+            "problem": 8,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 228,
+            "team": 16
+        },
+        {
+            "id": 317,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 228,
+            "team": 59
+        },
+        {
+            "id": 318,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 228,
+            "team": 37
+        },
+        {
+            "id": 319,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 228,
+            "team": 50
+        },
+        {
+            "id": 321,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 229,
+            "team": 43
+        },
+        {
+            "id": 322,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 231,
+            "team": 44
+        },
+        {
+            "id": 323,
+            "problem": 5,
+            "result": "Yes",
+            "submissionTime": 231,
+            "team": 43
+        },
+        {
+            "id": 324,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 232,
+            "team": 50
+        },
+        {
+            "id": 325,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 232,
+            "team": 59
+        },
+        {
+            "id": 326,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 233,
+            "team": 50
+        },
+        {
+            "id": 327,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 234,
+            "team": 55
+        },
+        {
+            "id": 328,
+            "problem": 7,
+            "result": "No - Wrong Answer",
+            "submissionTime": 234,
+            "team": 30
+        },
+        {
+            "id": 329,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 235,
+            "team": 38
+        },
+        {
+            "id": 330,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 235,
+            "team": 30
+        },
+        {
+            "id": 331,
+            "problem": 5,
+            "result": "No - Run-time Error",
+            "submissionTime": 235,
+            "team": 59
+        },
+        {
+            "id": 332,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 236,
+            "team": 55
+        },
+        {
+            "id": 333,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 236,
+            "team": 49
+        },
+        {
+            "id": 334,
+            "problem": 3,
+            "result": "Yes",
+            "submissionTime": 236,
+            "team": 32
+        },
+        {
+            "id": 335,
+            "problem": 3,
+            "result": "No - Run-time Error",
+            "submissionTime": 237,
+            "team": 49
+        },
+        {
+            "id": 336,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 237,
+            "team": 55
+        },
+        {
+            "id": 337,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 237,
+            "team": 44
+        },
+        {
+            "id": 338,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 238,
+            "team": 49
+        },
+        {
+            "id": 339,
+            "problem": 4,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 238,
+            "team": 45
+        },
+        {
+            "id": 340,
+            "problem": 6,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 238,
+            "team": 47
+        },
+        {
+            "id": 341,
+            "problem": 0,
+            "result": "No - Wrong Answer",
+            "submissionTime": 238,
+            "team": 38
+        },
+        {
+            "id": 342,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 239,
+            "team": 50
+        },
+        {
+            "id": 343,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 239,
+            "team": 59
+        },
+        {
+            "id": 344,
+            "problem": 5,
+            "result": "No - Wrong Answer",
+            "submissionTime": 239,
+            "team": 37
+        },
+        {
+            "id": 345,
+            "problem": 8,
+            "result": "No - Wrong Answer",
+            "submissionTime": 239,
+            "team": 21
+        },
+        {
+            "id": 346,
+            "problem": 6,
+            "result": "No - Wrong Answer",
+            "submissionTime": 240,
+            "team": 50
+        },
+        {
+            "id": 347,
+            "problem": 5,
+            "result": "No - Time Limit Exceeded",
+            "submissionTime": 240,
+            "team": 40
+        },
+        {
+            "id": 348,
+            "problem": 3,
+            "result": "No - Wrong Answer",
+            "submissionTime": 240,
+            "team": 49
+        }
+    ],
+    "time": {
+        "contestTime": 14400,
+        "noMoreUpdate": false,
+        "timestamp": 0
+    }
+}
