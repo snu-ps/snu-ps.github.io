@@ -13,14 +13,15 @@ on:
   schedule:
     # Run every day 05:00 UTC+9
     - cron: "0 20 * * *"
+    # Run every month 04:00 UTC+9
+    - cron: "0 19 1 * *"
 
 permissions:
   contents: write
 
 jobs:
   build:
-    # if: github.event_name != 'schedule'
-    # TODO: we have to run this job when artifact is expired
+    if: github.event.schedule != '0 20 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -49,7 +50,7 @@ jobs:
           name: Build Artifacts
           path: _site
           overwrite: true
-          retention-days: 1
+          retention-days: 90
   update-calendar:
     runs-on: ubuntu-latest
     steps:
