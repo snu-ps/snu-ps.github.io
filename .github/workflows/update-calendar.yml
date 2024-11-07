@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - release
-  pull_request:
-    branches:
-      - master
   schedule:
     # Run every day 05:00 UTC+9
     - cron: "0 20 * * *"
@@ -23,7 +20,7 @@ jobs:
       - name: Checkout release branch
         uses: actions/checkout@v4
         with:
-          ref: master # TODO: Change to release branch
+          ref: release
       - name: Install dependencies
         run: |
           pip3 install --upgrade argparse oauth2client google-api-python-client
@@ -36,7 +33,6 @@ jobs:
               iu1iul1u3n8ic3s78f4df15u4o@group.calendar.google.com \
               c_kmvgs6pqta7man27ikg08ffrhc@group.calendar.google.com
       - name: Commit and push changes
-        if: github.event_name != 'pull_request'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update calendar for today
