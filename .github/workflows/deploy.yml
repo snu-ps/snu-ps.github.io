@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   build:
-    # If not a daily cron job
+    # Run the build step only if this is not a daily cron job
     if: github.event.schedule != '0 20 * * *'
     runs-on: ubuntu-latest
     steps:
@@ -43,7 +43,7 @@ jobs:
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Upload build artifacts 🎁
-        # Only upload artifacts when not a pull request
+        # Upload artifact only if this is not a pull request
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4
         with:
@@ -68,17 +68,17 @@ jobs:
               iu1iul1u3n8ic3s78f4df15u4o@group.calendar.google.com \
               c_kmvgs6pqta7man27ikg08ffrhc@group.calendar.google.com
       - name: Upload calendar JSON 📁
-        # Only upload artifacts when not a pull request
+        # Upload artifact only if this is not a pull request
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4
         with:
           name: Calendar JSON
           path: calendar.json
           overwrite: true
-          retention-days: 1
+          retention-days: 3
   deploy:
-    # Only deploy when not a pull request
-    if: github.event_name != 'pull_request'
+    # Deploy only if this is not a pull request and the update-calendar step is successful
+    if: ${{ always() && github.event_name != 'pull_request' && needs.update-calendar.result == 'success' }}
     needs: [build, update-calendar]
     runs-on: ubuntu-latest
     steps:
