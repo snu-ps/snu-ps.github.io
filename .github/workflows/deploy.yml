@@ -79,7 +79,7 @@ jobs:
   deploy:
 #    # Deploy only if this is not a pull request and the update-calendar step is successful
 #    if: ${{ always() && github.event_name != 'pull_request' && needs.update-calendar.result == 'success' }}
-    # Upload artifact only if this is not a pull request
+    # Deploy only if this is not a pull request
     if: github.event_name != 'pull_request'
     needs: [build, update-calendar]
     runs-on: ubuntu-latest
