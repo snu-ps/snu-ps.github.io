@@ -11,16 +11,16 @@ on:
   schedule:
     # Run every day 05:00 UTC+9
     - cron: "0 20 * * *"
-    # Run every month 04:00 UTC+9
-    - cron: "0 19 1 * *"
+#    # Run every month 04:00 UTC+9
+#    - cron: "0 19 1 * *"
 
 permissions:
   contents: write
 
 jobs:
   build:
-    # Run the build step only if this is not a daily cron job
-    if: github.event.schedule != '0 20 * * *'
+#    # Run the build step only if this is not a daily cron job
+#    if: github.event.schedule != '0 20 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -77,8 +77,10 @@ jobs:
           overwrite: true
           retention-days: 3
   deploy:
-    # Deploy only if this is not a pull request and the update-calendar step is successful
-    if: ${{ always() && github.event_name != 'pull_request' && needs.update-calendar.result == 'success' }}
+#    # Deploy only if this is not a pull request and the update-calendar step is successful
+#    if: ${{ always() && github.event_name != 'pull_request' && needs.update-calendar.result == 'success' }}
+    # Deploy only if this is not a pull request
+    if: github.event_name != 'pull_request'
     needs: [build, update-calendar]
     runs-on: ubuntu-latest
     steps:
