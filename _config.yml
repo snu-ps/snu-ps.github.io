@@ -14,10 +14,10 @@ icon: logo/favicon.png
 logo: logo/snups.logo.modified-removebg-preview.png
 apply_link: https://docs.google.com/forms/d/e/1FAIpQLScTiM6gsD_3qm787JN22yBgYU29J9kwmMYQHcYb78PDFRgDPw/viewform?usp=sf_link
 president:
-  name: 조영욱
-  englishname: Younguk Jo
-  email:
-  phone: 010-5341-5747
+  name: 채이환
+  englishname: Yihwan Chae
+  email: benedict0724@naver.com
+  phone: 010-4995-3704
 
 url: https://snups.org # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
