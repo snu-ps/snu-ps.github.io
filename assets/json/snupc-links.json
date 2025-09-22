@@ -1,5 +1,10 @@
 [
     {
+        "year": "2025",
+        "announce": "/snupc2025/",
+        "solution": "/assets/pdf/snupc2025solution.pdf"
+    },
+    {
         "year": "2024",
         "announce": "/snupc2024/",
         "div1contest": "https://www.acmicpc.net/contest/view/1348",
