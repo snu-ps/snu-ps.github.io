@@ -12,12 +12,12 @@ keywords: snups, snu, algorithm, club, snucse, seoul national university, comput
 lang: ko
 icon: logo/favicon.png
 logo: logo/snups.logo.modified-removebg-preview.png
-apply_link: https://docs.google.com/forms/d/e/1FAIpQLSfQJ8-9dTo8xjzEvSma6U5DhkMna9dAWyeyZ_PL0evvdeZpdw/viewform?usp=sharing
+apply_link: https://docs.google.com/forms/d/e/1FAIpQLSezTkpeQKEub6BqnmR8ORFYDXUYM6_9jmM3OGB5b2XV8IaenA/viewform
 president:
-  name: 채이환
-  englishname: Yihwan Chae
-  email: benedict0724@naver.com
-  phone: 010-4995-3704
+  name: 김건표
+  englishname: Geonpyo Kim
+  email: dennisoda@snu.ac.kr
+  phone: 010-3137-7795
 
 url: https://snups.org # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
