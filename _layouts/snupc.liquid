@@ -12,7 +12,7 @@ layout: default
         Sponsored by
         {% for sponsor in page.sponsors %}
           <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="img-fluid" 
-            style="height: 0.9em; vertical-align: middle; margin-left: 10px;">
+            style="height: {{ sponsor.display_height | default: '0.9em' }}; vertical-align: middle; margin-left: 10px;">
         {% endfor %}
       </p>
     </strong>
