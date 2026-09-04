@@ -17,8 +17,9 @@ pretty_table: true
 
 ---
 
-## SNUPC 2025 [공지](/snupc2025/) 및 [신청](https://forms.gle/3477BGwDZjyFk97E7)
-![SNUPC 2025](/assets/img/poster/snupc2025.png){:style="width:600px; max-width:100%;"}
+## SNUPC 2026 [공지](/snupc2026/) 및 [신청](https://docs.google.com/forms/d/e/1FAIpQLSciwEluwaevO5GqlV_Yefr__vG0oUMpuFUdnq9EbKRVzpjnzQ/viewform)
+
+![SNUPC 2026](/assets/img/poster/snupc2026.png){:style="width:600px; max-width:100%;"}
 
 ---
 
